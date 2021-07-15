@@ -1,0 +1,107 @@
+{
+  pairs(first: 10, where: {reserveUSD_gt: "1000000", volumeUSD_gt: "50000"}, orderBy: reserveUSD, orderDirection: desc) {
+    id
+    token0 {
+      id
+      symbol
+    }
+    token1 {
+      id
+      symbol
+    }
+    reserveUSD
+    volumeUSD
+  }
+    token(id:"0x94b0a3d511b6ecdb17ebf877278ab030acb0a878"){
+    id
+    symbol
+    name
+    totalSupply
+  }
+}
+
+
+{ 
+  pairs(where:{
+		token0:"0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48"
+    token1:"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"}) {
+   token0 {
+    name
+  }
+    token1 {
+      name
+    }
+  }
+}
+
+
+
+{
+  pairs{
+    id
+    token0{
+      id
+      name
+      symbol
+      decimals
+    }
+    
+  }
+}
+
+
+
+  })
+  
+  token(id:"0x0000000000085d4780b73119b644ae5ecd22b376"){
+    id
+    name
+  }
+  tokens{
+    id
+    name
+  }
+}
+
+------
+
+{  
+ pairs(where: {token0:"0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48", 
+  token1:"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"}) {
+ id
+  volumeToken0
+    volumeToken1
+    createdAtTimestamp
+  token0 {
+    name
+    totalSupply
+    totalLiquidity
+    tradeVolumeUSD
+  }
+  token1 {
+    name
+    totalSupply
+    totalLiquidity
+    tradeVolumeUSD
+  }
+}
+  pair(id:"0xb4e16d0168e52d35cacd2c6185b44281ec28c9dc"){
+    id
+    token0{
+      name
+    }
+    token1{
+      name
+    }
+  }
+  pairDayData(id:"0xb4e16d0168e52d35cacd2c6185b44281ec28c9dc"){
+    id
+    token0{
+      name
+    }
+    token1{
+      name
+    }
+  }
+  
+}
