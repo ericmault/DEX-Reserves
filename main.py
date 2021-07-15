@@ -12,9 +12,8 @@ ts = int("1284101485")
 print(datetime.utcfromtimestamp(ts).strftime('%Y-%m-%d %H:%M:%S'))
 
 print("dt_object =", dt_object)
-print("type(dt_object) =", type(dt_object))
 
-with open('./uniV2Datatest.json', 'r') as f:
+with open('./uniV2DataV2.json', 'r') as f:
     data = json.loads(f.read())
     
 # df = pd.DataFrame(data)
@@ -28,5 +27,39 @@ def returnDateTime(x):
 df['date'] = df['date'].apply(returnDateTime)
 
 
-df.to_csv('out.csv',index=False)
+with open('./uniV2ETHPriceData.json', 'r') as g:
+    data2 = json.loads(g.read())
+    
+df2 = pd.json_normalize(data2)
+
+
+    
+df2['date'] = df2['date'].apply(returnDateTime)
+
 print(df)
+print(df2)
+
+df = df.merge(df2,how='left',on='date')
+
+# print(df)
+# print(df2)
+
+#uncomment here
+df.to_csv('out.csv',index=False)
+
+
+
+# with open('./uniV2DataV2.json', 'r') as k:
+#     data2 = json.loads(k.read())
+    
+
+# df2 = pd.json_normalize(data2)
+
+    
+# df2['date'] = df2['date'].apply(returnDateTime)
+
+
+# df2.to_csv('out2.csv',index=False)
+
+
+

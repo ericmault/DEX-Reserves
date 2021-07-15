@@ -1,0 +1,26 @@
+{
+ pairDayDatas(first: 1000, orderBy: date, orderDirection: asc,
+   where: {
+     pair: "0x397ff1542f962076d0bfe58ea045ffa2d347aca0",
+     date_gt: 1609506061
+   }
+ ) {
+  
+token0{
+  name
+  liquidity
+}
+  token1{
+    name
+    liquidity
+  }
+     date
+  totalSupply
+  reserveUSD
+     volumeToken0
+     volumeToken1
+     volumeUSD
+     reserveUSD
+ }
+
+}

@@ -1,0 +1,3122 @@
+[
+        {
+          "dailyVolumeToken0": "58235365.265759",
+          "dailyVolumeToken1": "77035.572758292697549043",
+          "dailyVolumeUSD": "58137032.36927949424111951396393759",
+          "date": 1609545600,
+          "reserveUSD": "148311819.8622367367304415187138704",
+          "token0": {
+            "name": "USD//C",
+            "totalLiquidity": "293699483.813838"
+          },
+          "token1": {
+            "name": "Wrapped Ether",
+            "totalLiquidity": "746214.985446349950579597"
+          },
+          "totalSupply": "2.024080670822815309"
+        },
+        {
+          "dailyVolumeToken0": "125317798.187851",
+          "dailyVolumeToken1": "139527.542151090644739636",
+          "dailyVolumeUSD": "125107697.8463614869263968486959724",
+          "date": 1609632000,
+          "reserveUSD": "163442168.1009048366047623559595084",
+          "token0": {
+            "name": "USD//C",
+            "totalLiquidity": "293699483.813838"
+          },
+          "token1": {
+            "name": "Wrapped Ether",
+            "totalLiquidity": "746214.985446349950579597"
+          },
+          "totalSupply": "1.984043389110131832"
+        },
+        {
+          "dailyVolumeToken0": "186225206.745034",
+          "dailyVolumeToken1": "184014.011155257276492008",
+          "dailyVolumeUSD": "186084478.4448002286550242601263099",
+          "date": 1609718400,
+          "reserveUSD": "202788624.7607029525467395061435112",
+          "token0": {
+            "name": "USD//C",
+            "totalLiquidity": "293699483.813838"
+          },
+          "token1": {
+            "name": "Wrapped Ether",
+            "totalLiquidity": "746214.985446349950579597"
+          },
+          "totalSupply": "2.37632346484828854"
+        },
+        {
+          "dailyVolumeToken0": "129371690.320298",
+          "dailyVolumeToken1": "121773.569066850888009087",
+          "dailyVolumeUSD": "129035718.1892910254172780044681419",
+          "date": 1609804800,
+          "reserveUSD": "213668169.8331699983924444583139773",
+          "token0": {
+            "name": "USD//C",
+            "totalLiquidity": "293699483.813838"
+          },
+          "token1": {
+            "name": "Wrapped Ether",
+            "totalLiquidity": "746214.985446349950579597"
+          },
+          "totalSupply": "2.429922315429866808"
+        },
+        {
+          "dailyVolumeToken0": "120111327.33197",
+          "dailyVolumeToken1": "104766.202785393903720608",
+          "dailyVolumeUSD": "119962416.0226970291963242032503678",
+          "date": 1609891200,
+          "reserveUSD": "226123006.7767164083350653804199418",
+          "token0": {
+            "name": "USD//C",
+            "totalLiquidity": "293699483.813838"
+          },
+          "token1": {
+            "name": "Wrapped Ether",
+            "totalLiquidity": "746214.985446349950579597"
+          },
+          "totalSupply": "2.445916328632360439"
+        },
+        {
+          "dailyVolumeToken0": "114156068.162092",
+          "dailyVolumeToken1": "93595.346393637692771793",
+          "dailyVolumeUSD": "114075472.7933077595719362375153851",
+          "date": 1609977600,
+          "reserveUSD": "233026913.7596712425024992750841783",
+          "token0": {
+            "name": "USD//C",
+            "totalLiquidity": "293699483.813838"
+          },
+          "token1": {
+            "name": "Wrapped Ether",
+            "totalLiquidity": "746214.985446349950579597"
+          },
+          "totalSupply": "2.505063228459695851"
+        },
+        {
+          "dailyVolumeToken0": "146893609.510853",
+          "dailyVolumeToken1": "123575.017578033988211643",
+          "dailyVolumeUSD": "146858207.6323070675001731100826104",
+          "date": 1610064000,
+          "reserveUSD": "233282485.8907539310285353502107217",
+          "token0": {
+            "name": "USD//C",
+            "totalLiquidity": "293699483.813838"
+          },
+          "token1": {
+            "name": "Wrapped Ether",
+            "totalLiquidity": "746214.985446349950579597"
+          },
+          "totalSupply": "2.50680420199010051"
+        },
+        {
+          "dailyVolumeToken0": "80740088.406018",
+          "dailyVolumeToken1": "65902.373258610908496705",
+          "dailyVolumeUSD": "80683535.90092826500401230105239115",
+          "date": 1610150400,
+          "reserveUSD": "233661146.0486998095197492317291622",
+          "token0": {
+            "name": "USD//C",
+            "totalLiquidity": "293699483.813838"
+          },
+          "token1": {
+            "name": "Wrapped Ether",
+            "totalLiquidity": "746214.985446349950579597"
+          },
+          "totalSupply": "2.445499584531453692"
+        },
+        {
+          "dailyVolumeToken0": "134384794.484494",
+          "dailyVolumeToken1": "104637.85930973318202164",
+          "dailyVolumeUSD": "134283795.8490228206908630425271957",
+          "date": 1610236800,
+          "reserveUSD": "231919480.1092697728525800210234426",
+          "token0": {
+            "name": "USD//C",
+            "totalLiquidity": "293699483.813838"
+          },
+          "token1": {
+            "name": "Wrapped Ether",
+            "totalLiquidity": "746214.985446349950579597"
+          },
+          "totalSupply": "2.442696910891657086"
+        },
+        {
+          "dailyVolumeToken0": "317769857.744835",
+          "dailyVolumeToken1": "302051.78386605960253022",
+          "dailyVolumeUSD": "318044882.5658571216803718829171287",
+          "date": 1610323200,
+          "reserveUSD": "220921870.2455540420107853417225576",
+          "token0": {
+            "name": "USD//C",
+            "totalLiquidity": "293699483.813838"
+          },
+          "token1": {
+            "name": "Wrapped Ether",
+            "totalLiquidity": "746214.985446349950579597"
+          },
+          "totalSupply": "2.495056174264171004"
+        },
+        {
+          "dailyVolumeToken0": "129480624.080187",
+          "dailyVolumeToken1": "120182.243665135669671689",
+          "dailyVolumeUSD": "129498907.9936388712814511237224646",
+          "date": 1610409600,
+          "reserveUSD": "221881874.5099792777369962910053812",
+          "token0": {
+            "name": "USD//C",
+            "totalLiquidity": "293699483.813838"
+          },
+          "token1": {
+            "name": "Wrapped Ether",
+            "totalLiquidity": "746214.985446349950579597"
+          },
+          "totalSupply": "2.549235296118074979"
+        },
+        {
+          "dailyVolumeToken0": "93840536.700175",
+          "dailyVolumeToken1": "88501.578471973333249837",
+          "dailyVolumeUSD": "93845317.50404544345877079009174967",
+          "date": 1610496000,
+          "reserveUSD": "234041445.569406022472099669924752",
+          "token0": {
+            "name": "USD//C",
+            "totalLiquidity": "293699483.813838"
+          },
+          "token1": {
+            "name": "Wrapped Ether",
+            "totalLiquidity": "746214.985446349950579597"
+          },
+          "totalSupply": "2.588270598198498678"
+        },
+        {
+          "dailyVolumeToken0": "91882292.502099",
+          "dailyVolumeToken1": "78125.361718426747127681",
+          "dailyVolumeUSD": "91849035.88270276681106086082874594",
+          "date": 1610582400,
+          "reserveUSD": "246002196.7012968962312240465338552",
+          "token0": {
+            "name": "USD//C",
+            "totalLiquidity": "293699483.813838"
+          },
+          "token1": {
+            "name": "Wrapped Ether",
+            "totalLiquidity": "746214.985446349950579597"
+          },
+          "totalSupply": "2.605848544830279391"
+        },
+        {
+          "dailyVolumeToken0": "141212352.236453",
+          "dailyVolumeToken1": "120022.061703427814522664",
+          "dailyVolumeUSD": "141285206.9975231514931970356313968",
+          "date": 1610668800,
+          "reserveUSD": "248964345.4213396675616856224703036",
+          "token0": {
+            "name": "USD//C",
+            "totalLiquidity": "293699483.813838"
+          },
+          "token1": {
+            "name": "Wrapped Ether",
+            "totalLiquidity": "746214.985446349950579597"
+          },
+          "totalSupply": "2.694326789173924394"
+        },
+        {
+          "dailyVolumeToken0": "102590654.989165",
+          "dailyVolumeToken1": "83841.256765759124358011",
+          "dailyVolumeUSD": "102578094.1671638590869819449018903",
+          "date": 1610755200,
+          "reserveUSD": "263952192.3121934200369858941573776",
+          "token0": {
+            "name": "USD//C",
+            "totalLiquidity": "293699483.813838"
+          },
+          "token1": {
+            "name": "Wrapped Ether",
+            "totalLiquidity": "746214.985446349950579597"
+          },
+          "totalSupply": "2.781063193805694548"
+        },
+        {
+          "dailyVolumeToken0": "92131074.002289",
+          "dailyVolumeToken1": "75490.895325835599082417",
+          "dailyVolumeUSD": "92131637.98819486338386540121655257",
+          "date": 1610841600,
+          "reserveUSD": "264758666.287522293447265076264161",
+          "token0": {
+            "name": "USD//C",
+            "totalLiquidity": "293699483.813838"
+          },
+          "token1": {
+            "name": "Wrapped Ether",
+            "totalLiquidity": "746214.985446349950579597"
+          },
+          "totalSupply": "2.789035291564538447"
+        },
+        {
+          "dailyVolumeToken0": "77253124.992734",
+          "dailyVolumeToken1": "63085.541037820233783733",
+          "dailyVolumeUSD": "77273000.72987771661125950587234008",
+          "date": 1610928000,
+          "reserveUSD": "269141325.5514755028324591863865637",
+          "token0": {
+            "name": "USD//C",
+            "totalLiquidity": "293699483.813838"
+          },
+          "token1": {
+            "name": "Wrapped Ether",
+            "totalLiquidity": "746214.985446349950579597"
+          },
+          "totalSupply": "2.802907490170139232"
+        },
+        {
+          "dailyVolumeToken0": "174792332.203302",
+          "dailyVolumeToken1": "127412.200633279889960308",
+          "dailyVolumeUSD": "174949006.3981101471105408728326915",
+          "date": 1611014400,
+          "reserveUSD": "257261767.7895089583573179198688338",
+          "token0": {
+            "name": "USD//C",
+            "totalLiquidity": "293699483.813838"
+          },
+          "token1": {
+            "name": "Wrapped Ether",
+            "totalLiquidity": "746214.985446349950579597"
+          },
+          "totalSupply": "2.555297696148129403"
+        },
+        {
+          "dailyVolumeToken0": "137291215.047333",
+          "dailyVolumeToken1": "103941.848906623762675364",
+          "dailyVolumeUSD": "137344493.7179173620004925599089564",
+          "date": 1611100800,
+          "reserveUSD": "258550809.2521937649872441421817063",
+          "token0": {
+            "name": "USD//C",
+            "totalLiquidity": "293699483.813838"
+          },
+          "token1": {
+            "name": "Wrapped Ether",
+            "totalLiquidity": "746214.985446349950579597"
+          },
+          "totalSupply": "2.561546286689026009"
+        },
+        {
+          "dailyVolumeToken0": "197377311.970558",
+          "dailyVolumeToken1": "162089.541401582473170672",
+          "dailyVolumeUSD": "197506598.965167111730864195922252",
+          "date": 1611187200,
+          "reserveUSD": "226176965.1070046787260382458766587",
+          "token0": {
+            "name": "USD//C",
+            "totalLiquidity": "293699483.813838"
+          },
+          "token1": {
+            "name": "Wrapped Ether",
+            "totalLiquidity": "746214.985446349950579597"
+          },
+          "totalSupply": "2.483250836010616778"
+        },
+        {
+          "dailyVolumeToken0": "178035052.661292",
+          "dailyVolumeToken1": "153246.933383671612726138",
+          "dailyVolumeUSD": "177867850.6742918094880442233649741",
+          "date": 1611273600,
+          "reserveUSD": "269400288.3216178799207706681193828",
+          "token0": {
+            "name": "USD//C",
+            "totalLiquidity": "293699483.813838"
+          },
+          "token1": {
+            "name": "Wrapped Ether",
+            "totalLiquidity": "746214.985446349950579597"
+          },
+          "totalSupply": "2.807196087822472335"
+        },
+        {
+          "dailyVolumeToken0": "116228123.917386",
+          "dailyVolumeToken1": "93675.725568421796233292",
+          "dailyVolumeUSD": "116230970.5550631460899797219482509",
+          "date": 1611360000,
+          "reserveUSD": "283890664.5651469538160489571150311",
+          "token0": {
+            "name": "USD//C",
+            "totalLiquidity": "293699483.813838"
+          },
+          "token1": {
+            "name": "Wrapped Ether",
+            "totalLiquidity": "746214.985446349950579597"
+          },
+          "totalSupply": "2.960226629429092689"
+        },
+        {
+          "dailyVolumeToken0": "99055263.892239",
+          "dailyVolumeToken1": "74779.430468815327394546",
+          "dailyVolumeUSD": "98949417.14368228633341668453391518",
+          "date": 1611446400,
+          "reserveUSD": "304600567.8597445812400424159501352",
+          "token0": {
+            "name": "USD//C",
+            "totalLiquidity": "293699483.813838"
+          },
+          "token1": {
+            "name": "Wrapped Ether",
+            "totalLiquidity": "746214.985446349950579597"
+          },
+          "totalSupply": "2.978903349173715988"
+        },
+        {
+          "dailyVolumeToken0": "148647590.874438",
+          "dailyVolumeToken1": "106482.71956185145312036",
+          "dailyVolumeUSD": "148658365.8483879134191834852120952",
+          "date": 1611532800,
+          "reserveUSD": "296532019.4731180553170723020658897",
+          "token0": {
+            "name": "USD//C",
+            "totalLiquidity": "293699483.813838"
+          },
+          "token1": {
+            "name": "Wrapped Ether",
+            "totalLiquidity": "746214.985446349950579597"
+          },
+          "totalSupply": "2.97455417139896538"
+        },
+        {
+          "dailyVolumeToken0": "128291881.424633",
+          "dailyVolumeToken1": "97303.196604159250651793",
+          "dailyVolumeUSD": "128282611.3200617255793052211968581",
+          "date": 1611619200,
+          "reserveUSD": "310798582.520053022298316448532362",
+          "token0": {
+            "name": "USD//C",
+            "totalLiquidity": "293699483.813838"
+          },
+          "token1": {
+            "name": "Wrapped Ether",
+            "totalLiquidity": "746214.985446349950579597"
+          },
+          "totalSupply": "3.069645341924769978"
+        },
+        {
+          "dailyVolumeToken0": "143431897.861376",
+          "dailyVolumeToken1": "112804.340942622768080934",
+          "dailyVolumeUSD": "143398804.7134073490770340684576477",
+          "date": 1611705600,
+          "reserveUSD": "300254712.5169398669211528913599788",
+          "token0": {
+            "name": "USD//C",
+            "totalLiquidity": "293699483.813838"
+          },
+          "token1": {
+            "name": "Wrapped Ether",
+            "totalLiquidity": "746214.985446349950579597"
+          },
+          "totalSupply": "3.092202544497346947"
+        },
+        {
+          "dailyVolumeToken0": "101379120.36037",
+          "dailyVolumeToken1": "77376.437402101980967435",
+          "dailyVolumeUSD": "101293386.6481237626078887908699596",
+          "date": 1611792000,
+          "reserveUSD": "307890524.6456767238106333451179679",
+          "token0": {
+            "name": "USD//C",
+            "totalLiquidity": "293699483.813838"
+          },
+          "token1": {
+            "name": "Wrapped Ether",
+            "totalLiquidity": "746214.985446349950579597"
+          },
+          "totalSupply": "3.064483474673698264"
+        },
+        {
+          "dailyVolumeToken0": "168484412.332336",
+          "dailyVolumeToken1": "123232.224737161076803565",
+          "dailyVolumeUSD": "168285470.0089741672529237129885826",
+          "date": 1611878400,
+          "reserveUSD": "311608596.349279084800426761488591",
+          "token0": {
+            "name": "USD//C",
+            "totalLiquidity": "293699483.813838"
+          },
+          "token1": {
+            "name": "Wrapped Ether",
+            "totalLiquidity": "746214.985446349950579597"
+          },
+          "totalSupply": "3.04047495162299503"
+        },
+        {
+          "dailyVolumeToken0": "70841230.942424",
+          "dailyVolumeToken1": "52079.012771943099649749",
+          "dailyVolumeUSD": "70838116.04345511401506550085422864",
+          "date": 1611964800,
+          "reserveUSD": "302212436.7651157147619986041854012",
+          "token0": {
+            "name": "USD//C",
+            "totalLiquidity": "293699483.813838"
+          },
+          "token1": {
+            "name": "Wrapped Ether",
+            "totalLiquidity": "746214.985446349950579597"
+          },
+          "totalSupply": "2.951649955566162769"
+        },
+        {
+          "dailyVolumeToken0": "79885046.556527",
+          "dailyVolumeToken1": "60198.693472675834030953",
+          "dailyVolumeUSD": "79939166.4131364638780426024385333",
+          "date": 1612051200,
+          "reserveUSD": "290483511.0666755626553171818987572",
+          "token0": {
+            "name": "USD//C",
+            "totalLiquidity": "293699483.813838"
+          },
+          "token1": {
+            "name": "Wrapped Ether",
+            "totalLiquidity": "746214.985446349950579597"
+          },
+          "totalSupply": "2.90010321459975792"
+        },
+        {
+          "dailyVolumeToken0": "82436848.616641",
+          "dailyVolumeToken1": "62467.382934306333928734",
+          "dailyVolumeUSD": "82433743.36476212957796681970860046",
+          "date": 1612137600,
+          "reserveUSD": "295978122.8628700251492211414998698",
+          "token0": {
+            "name": "USD//C",
+            "totalLiquidity": "293699483.813838"
+          },
+          "token1": {
+            "name": "Wrapped Ether",
+            "totalLiquidity": "746214.985446349950579597"
+          },
+          "totalSupply": "2.891666519949695294"
+        },
+        {
+          "dailyVolumeToken0": "115557952.43384",
+          "dailyVolumeToken1": "79811.237338620468971734",
+          "dailyVolumeUSD": "115478338.2526885974924484532595452",
+          "date": 1612224000,
+          "reserveUSD": "298416789.1802769805639082099978213",
+          "token0": {
+            "name": "USD//C",
+            "totalLiquidity": "293699483.813838"
+          },
+          "token1": {
+            "name": "Wrapped Ether",
+            "totalLiquidity": "746214.985446349950579597"
+          },
+          "totalSupply": "2.772140537131616621"
+        },
+        {
+          "dailyVolumeToken0": "99285706.167545",
+          "dailyVolumeToken1": "62729.00332377146535902",
+          "dailyVolumeUSD": "99241427.58280500424774496060605419",
+          "date": 1612310400,
+          "reserveUSD": "314620974.9010742975050663552021978",
+          "token0": {
+            "name": "USD//C",
+            "totalLiquidity": "293699483.813838"
+          },
+          "token1": {
+            "name": "Wrapped Ether",
+            "totalLiquidity": "746214.985446349950579597"
+          },
+          "totalSupply": "2.787331833536674073"
+        },
+        {
+          "dailyVolumeToken0": "153991061.292973",
+          "dailyVolumeToken1": "94102.319186288153606239",
+          "dailyVolumeUSD": "153967897.0174760333356977199222607",
+          "date": 1612396800,
+          "reserveUSD": "302548687.170394234152209125222293",
+          "token0": {
+            "name": "USD//C",
+            "totalLiquidity": "293699483.813838"
+          },
+          "token1": {
+            "name": "Wrapped Ether",
+            "totalLiquidity": "746214.985446349950579597"
+          },
+          "totalSupply": "2.727560625260185282"
+        },
+        {
+          "dailyVolumeToken0": "103891217.53087",
+          "dailyVolumeToken1": "61662.226150227017795048",
+          "dailyVolumeUSD": "103898475.6301660370565838023957605",
+          "date": 1612483200,
+          "reserveUSD": "314703766.6251081011708365614430201",
+          "token0": {
+            "name": "USD//C",
+            "totalLiquidity": "293699483.813838"
+          },
+          "token1": {
+            "name": "Wrapped Ether",
+            "totalLiquidity": "746214.985446349950579597"
+          },
+          "totalSupply": "2.733514504727904594"
+        },
+        {
+          "dailyVolumeToken0": "99362349.383367",
+          "dailyVolumeToken1": "58943.89600027849109908",
+          "dailyVolumeUSD": "99353211.76058263482379515209635943",
+          "date": 1612569600,
+          "reserveUSD": "292250240.3712706582137296430746094",
+          "token0": {
+            "name": "USD//C",
+            "totalLiquidity": "293699483.813838"
+          },
+          "token1": {
+            "name": "Wrapped Ether",
+            "totalLiquidity": "746214.985446349950579597"
+          },
+          "totalSupply": "2.569331814376513436"
+        },
+        {
+          "dailyVolumeToken0": "117530615.084187",
+          "dailyVolumeToken1": "73892.150119306802497816",
+          "dailyVolumeUSD": "117552156.7529768623924860341855136",
+          "date": 1612656000,
+          "reserveUSD": "281523620.4556748368246818783896789",
+          "token0": {
+            "name": "USD//C",
+            "totalLiquidity": "293699483.813838"
+          },
+          "token1": {
+            "name": "Wrapped Ether",
+            "totalLiquidity": "746214.985446349950579597"
+          },
+          "totalSupply": "2.516094817692306921"
+        },
+        {
+          "dailyVolumeToken0": "113739499.359632",
+          "dailyVolumeToken1": "67684.040297379463233561",
+          "dailyVolumeUSD": "113625693.5159725366422848816404387",
+          "date": 1612742400,
+          "reserveUSD": "298162369.1614842911258515059671574",
+          "token0": {
+            "name": "USD//C",
+            "totalLiquidity": "293699483.813838"
+          },
+          "token1": {
+            "name": "Wrapped Ether",
+            "totalLiquidity": "746214.985446349950579597"
+          },
+          "totalSupply": "2.560933324955946171"
+        },
+        {
+          "dailyVolumeToken0": "103542711.031776",
+          "dailyVolumeToken1": "59097.520795877471587769",
+          "dailyVolumeUSD": "103527498.0956446966777634184544928",
+          "date": 1612828800,
+          "reserveUSD": "301953417.4392724194237316574148066",
+          "token0": {
+            "name": "USD//C",
+            "totalLiquidity": "293699483.813838"
+          },
+          "token1": {
+            "name": "Wrapped Ether",
+            "totalLiquidity": "746214.985446349950579597"
+          },
+          "totalSupply": "2.573426054722110722"
+        },
+        {
+          "dailyVolumeToken0": "102020097.62451",
+          "dailyVolumeToken1": "57907.798728760086573704",
+          "dailyVolumeUSD": "102006292.8707155355430398902170368",
+          "date": 1612915200,
+          "reserveUSD": "302552730.6746715567659063708353555",
+          "token0": {
+            "name": "USD//C",
+            "totalLiquidity": "293699483.813838"
+          },
+          "token1": {
+            "name": "Wrapped Ether",
+            "totalLiquidity": "746214.985446349950579597"
+          },
+          "totalSupply": "2.594366543554191517"
+        },
+        {
+          "dailyVolumeToken0": "86560856.015866",
+          "dailyVolumeToken1": "48981.049335179376468978",
+          "dailyVolumeUSD": "86559912.41579183060633729507113498",
+          "date": 1613001600,
+          "reserveUSD": "312213608.6405215436168137616129721",
+          "token0": {
+            "name": "USD//C",
+            "totalLiquidity": "293699483.813838"
+          },
+          "token1": {
+            "name": "Wrapped Ether",
+            "totalLiquidity": "746214.985446349950579597"
+          },
+          "totalSupply": "2.648623715006071584"
+        },
+        {
+          "dailyVolumeToken0": "92154468.395902",
+          "dailyVolumeToken1": "51313.542788792129210658",
+          "dailyVolumeUSD": "92174042.32693250454248550325432661",
+          "date": 1613088000,
+          "reserveUSD": "318416800.8210809984024867685988507",
+          "token0": {
+            "name": "USD//C",
+            "totalLiquidity": "293699483.813838"
+          },
+          "token1": {
+            "name": "Wrapped Ether",
+            "totalLiquidity": "746214.985446349950579597"
+          },
+          "totalSupply": "2.65404223099898456"
+        },
+        {
+          "dailyVolumeToken0": "97381325.869845",
+          "dailyVolumeToken1": "53616.385286912546545733",
+          "dailyVolumeUSD": "97383235.42511353532771986285670401",
+          "date": 1613174400,
+          "reserveUSD": "316827205.7605012257338416811332672",
+          "token0": {
+            "name": "USD//C",
+            "totalLiquidity": "293699483.813838"
+          },
+          "token1": {
+            "name": "Wrapped Ether",
+            "totalLiquidity": "746214.985446349950579597"
+          },
+          "totalSupply": "2.661173149558138253"
+        },
+        {
+          "dailyVolumeToken0": "77039822.444843",
+          "dailyVolumeToken1": "42339.966382801295323113",
+          "dailyVolumeUSD": "77017001.0847234831803438249253434",
+          "date": 1613260800,
+          "reserveUSD": "348578832.3140441031076536717775482",
+          "token0": {
+            "name": "USD//C",
+            "totalLiquidity": "293699483.813838"
+          },
+          "token1": {
+            "name": "Wrapped Ether",
+            "totalLiquidity": "746214.985446349950579597"
+          },
+          "totalSupply": "2.930278245730145283"
+        },
+        {
+          "dailyVolumeToken0": "135957348.731721",
+          "dailyVolumeToken1": "77283.400794550307727135",
+          "dailyVolumeUSD": "135965160.2039252426088935597633923",
+          "date": 1613347200,
+          "reserveUSD": "345982439.6713842921661456686943776",
+          "token0": {
+            "name": "USD//C",
+            "totalLiquidity": "293699483.813838"
+          },
+          "token1": {
+            "name": "Wrapped Ether",
+            "totalLiquidity": "746214.985446349950579597"
+          },
+          "totalSupply": "2.925794544996172143"
+        },
+        {
+          "dailyVolumeToken0": "94865762.316959",
+          "dailyVolumeToken1": "53415.342017831784256893",
+          "dailyVolumeUSD": "94874085.16214273054134976033538336",
+          "date": 1613433600,
+          "reserveUSD": "345581888.4223433332139712326700293",
+          "token0": {
+            "name": "USD//C",
+            "totalLiquidity": "293699483.813838"
+          },
+          "token1": {
+            "name": "Wrapped Ether",
+            "totalLiquidity": "746214.985446349950579597"
+          },
+          "totalSupply": "2.920111361456187225"
+        },
+        {
+          "dailyVolumeToken0": "105153451.928428",
+          "dailyVolumeToken1": "58565.22847966562372471",
+          "dailyVolumeUSD": "105215939.0626012720211695231053602",
+          "date": 1613520000,
+          "reserveUSD": "354049178.1344991456552139657743638",
+          "token0": {
+            "name": "USD//C",
+            "totalLiquidity": "293699483.813838"
+          },
+          "token1": {
+            "name": "Wrapped Ether",
+            "totalLiquidity": "746214.985446349950579597"
+          },
+          "totalSupply": "2.931164408222864283"
+        },
+        {
+          "dailyVolumeToken0": "111422979.898751",
+          "dailyVolumeToken1": "58454.048260515587217073",
+          "dailyVolumeUSD": "111478994.3531662766213395586683776",
+          "date": 1613606400,
+          "reserveUSD": "361283548.4038988147879295246707818",
+          "token0": {
+            "name": "USD//C",
+            "totalLiquidity": "293699483.813838"
+          },
+          "token1": {
+            "name": "Wrapped Ether",
+            "totalLiquidity": "746214.985446349950579597"
+          },
+          "totalSupply": "2.921803631556454533"
+        },
+        {
+          "dailyVolumeToken0": "97179813.794126",
+          "dailyVolumeToken1": "50182.741208207593741128",
+          "dailyVolumeUSD": "97207606.87476178032303933404388945",
+          "date": 1613692800,
+          "reserveUSD": "362670039.2311638868485471176122966",
+          "token0": {
+            "name": "USD//C",
+            "totalLiquidity": "293699483.813838"
+          },
+          "token1": {
+            "name": "Wrapped Ether",
+            "totalLiquidity": "746214.985446349950579597"
+          },
+          "totalSupply": "2.911540232672623356"
+        },
+        {
+          "dailyVolumeToken0": "126493393.062565",
+          "dailyVolumeToken1": "64011.615580844359697807",
+          "dailyVolumeUSD": "126552542.9309836886658648254871277",
+          "date": 1613779200,
+          "reserveUSD": "357675800.9067195637549691552197903",
+          "token0": {
+            "name": "USD//C",
+            "totalLiquidity": "293699483.813838"
+          },
+          "token1": {
+            "name": "Wrapped Ether",
+            "totalLiquidity": "746214.985446349950579597"
+          },
+          "totalSupply": "2.90219404135572491"
+        },
+        {
+          "dailyVolumeToken0": "106355306.766886",
+          "dailyVolumeToken1": "54736.089957257963256107",
+          "dailyVolumeUSD": "106284013.9969167678259456946963407",
+          "date": 1613865600,
+          "reserveUSD": "336804382.6862532550576411903957772",
+          "token0": {
+            "name": "USD//C",
+            "totalLiquidity": "293699483.813838"
+          },
+          "token1": {
+            "name": "Wrapped Ether",
+            "totalLiquidity": "746214.985446349950579597"
+          },
+          "totalSupply": "2.719818458488943965"
+        },
+        {
+          "dailyVolumeToken0": "252891931.330355",
+          "dailyVolumeToken1": "143097.756394107590378785",
+          "dailyVolumeUSD": "252599601.228565030624230253515301",
+          "date": 1613952000,
+          "reserveUSD": "222336512.8113556023775879821768851",
+          "token0": {
+            "name": "USD//C",
+            "totalLiquidity": "293699483.813838"
+          },
+          "token1": {
+            "name": "Wrapped Ether",
+            "totalLiquidity": "746214.985446349950579597"
+          },
+          "totalSupply": "1.865095861088737231"
+        },
+        {
+          "dailyVolumeToken0": "352986813.513499",
+          "dailyVolumeToken1": "231784.680609706461542066",
+          "dailyVolumeUSD": "353041653.0496169981032955463202205",
+          "date": 1614038400,
+          "reserveUSD": "206628306.7408650774974554754700565",
+          "token0": {
+            "name": "USD//C",
+            "totalLiquidity": "293699483.813838"
+          },
+          "token1": {
+            "name": "Wrapped Ether",
+            "totalLiquidity": "746214.985446349950579597"
+          },
+          "totalSupply": "1.836015523598447999"
+        },
+        {
+          "dailyVolumeToken0": "162065707.803915",
+          "dailyVolumeToken1": "99625.609098034072586051",
+          "dailyVolumeUSD": "162042036.5652947662957947113884745",
+          "date": 1614124800,
+          "reserveUSD": "214863649.3079581454785537275337191",
+          "token0": {
+            "name": "USD//C",
+            "totalLiquidity": "293699483.813838"
+          },
+          "token1": {
+            "name": "Wrapped Ether",
+            "totalLiquidity": "746214.985446349950579597"
+          },
+          "totalSupply": "1.87138929890314634"
+        },
+        {
+          "dailyVolumeToken0": "121793169.906577",
+          "dailyVolumeToken1": "76758.414258979289702845",
+          "dailyVolumeUSD": "121852146.6104183933510184579312106",
+          "date": 1614211200,
+          "reserveUSD": "205457250.4828705110446626074339098",
+          "token0": {
+            "name": "USD//C",
+            "totalLiquidity": "293699483.813838"
+          },
+          "token1": {
+            "name": "Wrapped Ether",
+            "totalLiquidity": "746214.985446349950579597"
+          },
+          "totalSupply": "1.87959055406879517"
+        },
+        {
+          "dailyVolumeToken0": "154075879.458725",
+          "dailyVolumeToken1": "104674.796398342252070768",
+          "dailyVolumeUSD": "154113550.0319147501663784315138546",
+          "date": 1614297600,
+          "reserveUSD": "150209800.232098409789952998160137",
+          "token0": {
+            "name": "USD//C",
+            "totalLiquidity": "293699483.813838"
+          },
+          "token1": {
+            "name": "Wrapped Ether",
+            "totalLiquidity": "746214.985446349950579597"
+          },
+          "totalSupply": "1.381332207894454595"
+        },
+        {
+          "dailyVolumeToken0": "83842163.348305",
+          "dailyVolumeToken1": "56483.726159004294193346",
+          "dailyVolumeUSD": "83823174.42088050011166165507308777",
+          "date": 1614384000,
+          "reserveUSD": "167127859.6621093561322769525224886",
+          "token0": {
+            "name": "USD//C",
+            "totalLiquidity": "293699483.813838"
+          },
+          "token1": {
+            "name": "Wrapped Ether",
+            "totalLiquidity": "746214.985446349950579597"
+          },
+          "totalSupply": "1.527224518163785751"
+        },
+        {
+          "dailyVolumeToken0": "179875191.284096",
+          "dailyVolumeToken1": "131530.417721940535528516",
+          "dailyVolumeUSD": "179855669.608921735125027684489637",
+          "date": 1614470400,
+          "reserveUSD": "245805832.7872686326239077336057278",
+          "token0": {
+            "name": "USD//C",
+            "totalLiquidity": "293699483.813838"
+          },
+          "token1": {
+            "name": "Wrapped Ether",
+            "totalLiquidity": "746214.985446349950579597"
+          },
+          "totalSupply": "2.271157161566909602"
+        },
+        {
+          "dailyVolumeToken0": "118147868.313139",
+          "dailyVolumeToken1": "78962.266639166506006806",
+          "dailyVolumeUSD": "118029108.2128618332757469333382539",
+          "date": 1614556800,
+          "reserveUSD": "269158368.890543032581085008646673",
+          "token0": {
+            "name": "USD//C",
+            "totalLiquidity": "293699483.813838"
+          },
+          "token1": {
+            "name": "Wrapped Ether",
+            "totalLiquidity": "746214.985446349950579597"
+          },
+          "totalSupply": "2.361563423960706303"
+        },
+        {
+          "dailyVolumeToken0": "97803601.691826",
+          "dailyVolumeToken1": "63735.366178474092882147",
+          "dailyVolumeUSD": "97758149.75857178725974855573080323",
+          "date": 1614643200,
+          "reserveUSD": "238715578.3814959673662338704577584",
+          "token0": {
+            "name": "USD//C",
+            "totalLiquidity": "293699483.813838"
+          },
+          "token1": {
+            "name": "Wrapped Ether",
+            "totalLiquidity": "746214.985446349950579597"
+          },
+          "totalSupply": "2.146010435597635925"
+        },
+        {
+          "dailyVolumeToken0": "88746331.695801",
+          "dailyVolumeToken1": "55997.949057507297964635",
+          "dailyVolumeUSD": "88719550.73636314119791084920455896",
+          "date": 1614729600,
+          "reserveUSD": "237692890.1365542849752867881429995",
+          "token0": {
+            "name": "USD//C",
+            "totalLiquidity": "293699483.813838"
+          },
+          "token1": {
+            "name": "Wrapped Ether",
+            "totalLiquidity": "746214.985446349950579597"
+          },
+          "totalSupply": "2.075276469890979368"
+        },
+        {
+          "dailyVolumeToken0": "94312238.644692",
+          "dailyVolumeToken1": "60668.820024702114772149",
+          "dailyVolumeUSD": "94324542.12558501542284940322563495",
+          "date": 1614816000,
+          "reserveUSD": "237326621.5036861095458016794167987",
+          "token0": {
+            "name": "USD//C",
+            "totalLiquidity": "293699483.813838"
+          },
+          "token1": {
+            "name": "Wrapped Ether",
+            "totalLiquidity": "746214.985446349950579597"
+          },
+          "totalSupply": "2.093970187095631811"
+        },
+        {
+          "dailyVolumeToken0": "120226608.59808",
+          "dailyVolumeToken1": "81010.879117529117809568",
+          "dailyVolumeUSD": "120241943.1116665634284950032267901",
+          "date": 1614902400,
+          "reserveUSD": "237658168.2666420134765395641452195",
+          "token0": {
+            "name": "USD//C",
+            "totalLiquidity": "293699483.813838"
+          },
+          "token1": {
+            "name": "Wrapped Ether",
+            "totalLiquidity": "746214.985446349950579597"
+          },
+          "totalSupply": "2.104198405791164298"
+        },
+        {
+          "dailyVolumeToken0": "69826417.880157",
+          "dailyVolumeToken1": "44080.12911668143636265",
+          "dailyVolumeUSD": "69798383.2181986008385616243150172",
+          "date": 1614988800,
+          "reserveUSD": "251786675.6110884574436075631662529",
+          "token0": {
+            "name": "USD//C",
+            "totalLiquidity": "293699483.813838"
+          },
+          "token1": {
+            "name": "Wrapped Ether",
+            "totalLiquidity": "746214.985446349950579597"
+          },
+          "totalSupply": "2.140063081455937749"
+        },
+        {
+          "dailyVolumeToken0": "84912807.166053",
+          "dailyVolumeToken1": "50945.986958955286170395",
+          "dailyVolumeUSD": "84878337.28737493050532447879944908",
+          "date": 1615075200,
+          "reserveUSD": "257558659.6846335468118090823156283",
+          "token0": {
+            "name": "USD//C",
+            "totalLiquidity": "293699483.813838"
+          },
+          "token1": {
+            "name": "Wrapped Ether",
+            "totalLiquidity": "746214.985446349950579597"
+          },
+          "totalSupply": "2.138356631683125201"
+        },
+        {
+          "dailyVolumeToken0": "113526925.803991",
+          "dailyVolumeToken1": "65519.612719162191864449",
+          "dailyVolumeUSD": "113638956.2007667406879348432942715",
+          "date": 1615161600,
+          "reserveUSD": "268856442.8885163867337977631608495",
+          "token0": {
+            "name": "USD//C",
+            "totalLiquidity": "293699483.813838"
+          },
+          "token1": {
+            "name": "Wrapped Ether",
+            "totalLiquidity": "746214.985446349950579597"
+          },
+          "totalSupply": "2.163132042687784112"
+        },
+        {
+          "dailyVolumeToken0": "93847268.537364",
+          "dailyVolumeToken1": "51335.469985627849095092",
+          "dailyVolumeUSD": "93839483.73040201912319869536767137",
+          "date": 1615248000,
+          "reserveUSD": "275231358.703081600244790227432423",
+          "token0": {
+            "name": "USD//C",
+            "totalLiquidity": "293699483.813838"
+          },
+          "token1": {
+            "name": "Wrapped Ether",
+            "totalLiquidity": "746214.985446349950579597"
+          },
+          "totalSupply": "2.192190836820222285"
+        },
+        {
+          "dailyVolumeToken0": "86852974.041711",
+          "dailyVolumeToken1": "47813.304232909291554656",
+          "dailyVolumeUSD": "86847606.92160515698526037998162536",
+          "date": 1615334400,
+          "reserveUSD": "272578052.5408255264239497803317347",
+          "token0": {
+            "name": "USD//C",
+            "totalLiquidity": "293699483.813838"
+          },
+          "token1": {
+            "name": "Wrapped Ether",
+            "totalLiquidity": "746214.985446349950579597"
+          },
+          "totalSupply": "2.209784701016674983"
+        },
+        {
+          "dailyVolumeToken0": "90346339.609479",
+          "dailyVolumeToken1": "50572.985920846418213143",
+          "dailyVolumeUSD": "90467656.53091814233740772990924463",
+          "date": 1615420800,
+          "reserveUSD": "276128780.5714405177092473787979017",
+          "token0": {
+            "name": "USD//C",
+            "totalLiquidity": "293699483.813838"
+          },
+          "token1": {
+            "name": "Wrapped Ether",
+            "totalLiquidity": "746214.985446349950579597"
+          },
+          "totalSupply": "2.220274355693297648"
+        },
+        {
+          "dailyVolumeToken0": "89095543.898021",
+          "dailyVolumeToken1": "50262.843756903731334125",
+          "dailyVolumeUSD": "89098258.18963327690965264164498261",
+          "date": 1615507200,
+          "reserveUSD": "273260966.3083529842107110147773151",
+          "token0": {
+            "name": "USD//C",
+            "totalLiquidity": "293699483.813838"
+          },
+          "token1": {
+            "name": "Wrapped Ether",
+            "totalLiquidity": "746214.985446349950579597"
+          },
+          "totalSupply": "2.230360515793019646"
+        },
+        {
+          "dailyVolumeToken0": "96574746.745742",
+          "dailyVolumeToken1": "52243.494367721453263326",
+          "dailyVolumeUSD": "96577964.19787928795695680271896371",
+          "date": 1615593600,
+          "reserveUSD": "281653812.9377162372168010391193494",
+          "token0": {
+            "name": "USD//C",
+            "totalLiquidity": "293699483.813838"
+          },
+          "token1": {
+            "name": "Wrapped Ether",
+            "totalLiquidity": "746214.985446349950579597"
+          },
+          "totalSupply": "2.199197838100903464"
+        },
+        {
+          "dailyVolumeToken0": "73724782.742519",
+          "dailyVolumeToken1": "39180.15808457853028376",
+          "dailyVolumeUSD": "73711748.05518733851512484816940921",
+          "date": 1615680000,
+          "reserveUSD": "278730541.4866913744609381736193003",
+          "token0": {
+            "name": "USD//C",
+            "totalLiquidity": "293699483.813838"
+          },
+          "token1": {
+            "name": "Wrapped Ether",
+            "totalLiquidity": "746214.985446349950579597"
+          },
+          "totalSupply": "2.21674213021814224"
+        },
+        {
+          "dailyVolumeToken0": "104750892.620725",
+          "dailyVolumeToken1": "58300.009333946357074654",
+          "dailyVolumeUSD": "104745277.8414027195126271500468219",
+          "date": 1615766400,
+          "reserveUSD": "272664935.0807461537766410520353936",
+          "token0": {
+            "name": "USD//C",
+            "totalLiquidity": "293699483.813838"
+          },
+          "token1": {
+            "name": "Wrapped Ether",
+            "totalLiquidity": "746214.985446349950579597"
+          },
+          "totalSupply": "2.206832362702288006"
+        },
+        {
+          "dailyVolumeToken0": "93099101.520167",
+          "dailyVolumeToken1": "52446.839883624941773997",
+          "dailyVolumeUSD": "93076721.49168268239635001850847063",
+          "date": 1615852800,
+          "reserveUSD": "256252038.4053338470207660472996615",
+          "token0": {
+            "name": "USD//C",
+            "totalLiquidity": "293699483.813838"
+          },
+          "token1": {
+            "name": "Wrapped Ether",
+            "totalLiquidity": "746214.985446349950579597"
+          },
+          "totalSupply": "2.063981588808764671"
+        },
+        {
+          "dailyVolumeToken0": "69275902.479592",
+          "dailyVolumeToken1": "38767.136826506903531432",
+          "dailyVolumeUSD": "69267018.5051357664859237346421326",
+          "date": 1615939200,
+          "reserveUSD": "258486092.0081602215699308160231287",
+          "token0": {
+            "name": "USD//C",
+            "totalLiquidity": "293699483.813838"
+          },
+          "token1": {
+            "name": "Wrapped Ether",
+            "totalLiquidity": "746214.985446349950579597"
+          },
+          "totalSupply": "2.064694781685893094"
+        },
+        {
+          "dailyVolumeToken0": "71223888.197785",
+          "dailyVolumeToken1": "39481.471044039330666029",
+          "dailyVolumeUSD": "71250780.2636935293881747398383678",
+          "date": 1616025600,
+          "reserveUSD": "255248362.571769697664766238323282",
+          "token0": {
+            "name": "USD//C",
+            "totalLiquidity": "293699483.813838"
+          },
+          "token1": {
+            "name": "Wrapped Ether",
+            "totalLiquidity": "746214.985446349950579597"
+          },
+          "totalSupply": "2.06602584822993373"
+        },
+        {
+          "dailyVolumeToken0": "70128820.800616",
+          "dailyVolumeToken1": "38952.820364375255344467",
+          "dailyVolumeUSD": "70146013.76464571751965469177423651",
+          "date": 1616112000,
+          "reserveUSD": "259846705.7044863424251817764992592",
+          "token0": {
+            "name": "USD//C",
+            "totalLiquidity": "293699483.813838"
+          },
+          "token1": {
+            "name": "Wrapped Ether",
+            "totalLiquidity": "746214.985446349950579597"
+          },
+          "totalSupply": "2.084609793197092864"
+        },
+        {
+          "dailyVolumeToken0": "63842527.683771",
+          "dailyVolumeToken1": "34828.728089006806559601",
+          "dailyVolumeUSD": "63858237.1637230913618566174018157",
+          "date": 1616198400,
+          "reserveUSD": "260393498.1802259932547739537743754",
+          "token0": {
+            "name": "USD//C",
+            "totalLiquidity": "293699483.813838"
+          },
+          "token1": {
+            "name": "Wrapped Ether",
+            "totalLiquidity": "746214.985446349950579597"
+          },
+          "totalSupply": "2.086782574891695886"
+        },
+        {
+          "dailyVolumeToken0": "63150427.912384",
+          "dailyVolumeToken1": "35390.320097271102951618",
+          "dailyVolumeUSD": "63175577.36892024518803103221809512",
+          "date": 1616284800,
+          "reserveUSD": "265176928.3348195461494869650828205",
+          "token0": {
+            "name": "USD//C",
+            "totalLiquidity": "293699483.813838"
+          },
+          "token1": {
+            "name": "Wrapped Ether",
+            "totalLiquidity": "746214.985446349950579597"
+          },
+          "totalSupply": "2.139313224711611055"
+        },
+        {
+          "dailyVolumeToken0": "123826975.291118",
+          "dailyVolumeToken1": "71027.67944286233779362",
+          "dailyVolumeUSD": "123874329.5563187667113299196922235",
+          "date": 1616371200,
+          "reserveUSD": "261838190.5904928555116492897578376",
+          "token0": {
+            "name": "USD//C",
+            "totalLiquidity": "293699483.813838"
+          },
+          "token1": {
+            "name": "Wrapped Ether",
+            "totalLiquidity": "746214.985446349950579597"
+          },
+          "totalSupply": "2.170016965018078488"
+        },
+        {
+          "dailyVolumeToken0": "110098609.832714",
+          "dailyVolumeToken1": "65149.297185566723452689",
+          "dailyVolumeUSD": "110108791.2107771489993607896237707",
+          "date": 1616457600,
+          "reserveUSD": "232999864.4492175511562899818490727",
+          "token0": {
+            "name": "USD//C",
+            "totalLiquidity": "293699483.813838"
+          },
+          "token1": {
+            "name": "Wrapped Ether",
+            "totalLiquidity": "746214.985446349950579597"
+          },
+          "totalSupply": "1.934692951871285971"
+        },
+        {
+          "dailyVolumeToken0": "140860705.615538",
+          "dailyVolumeToken1": "85692.028204386579293201",
+          "dailyVolumeUSD": "140947581.2030555604533151376379904",
+          "date": 1616544000,
+          "reserveUSD": "240308389.8294275928893676127588065",
+          "token0": {
+            "name": "USD//C",
+            "totalLiquidity": "293699483.813838"
+          },
+          "token1": {
+            "name": "Wrapped Ether",
+            "totalLiquidity": "746214.985446349950579597"
+          },
+          "totalSupply": "2.043965883810636747"
+        },
+        {
+          "dailyVolumeToken0": "109724504.538875",
+          "dailyVolumeToken1": "69061.844664458402985129",
+          "dailyVolumeUSD": "109730966.9060855045695039509965776",
+          "date": 1616630400,
+          "reserveUSD": "238311464.5102204161310069108282199",
+          "token0": {
+            "name": "USD//C",
+            "totalLiquidity": "293699483.813838"
+          },
+          "token1": {
+            "name": "Wrapped Ether",
+            "totalLiquidity": "746214.985446349950579597"
+          },
+          "totalSupply": "2.02121996763884277"
+        },
+        {
+          "dailyVolumeToken0": "82488438.626382",
+          "dailyVolumeToken1": "50254.234927212876474222",
+          "dailyVolumeUSD": "82507244.40486888694637272032792377",
+          "date": 1616716800,
+          "reserveUSD": "252486332.4287368050430367680735678",
+          "token0": {
+            "name": "USD//C",
+            "totalLiquidity": "293699483.813838"
+          },
+          "token1": {
+            "name": "Wrapped Ether",
+            "totalLiquidity": "746214.985446349950579597"
+          },
+          "totalSupply": "2.073935300079809082"
+        },
+        {
+          "dailyVolumeToken0": "59259349.024339",
+          "dailyVolumeToken1": "34920.213339570789910913",
+          "dailyVolumeUSD": "59274120.38564035783368283194454413",
+          "date": 1616803200,
+          "reserveUSD": "268660184.3592176241256373358903212",
+          "token0": {
+            "name": "USD//C",
+            "totalLiquidity": "293699483.813838"
+          },
+          "token1": {
+            "name": "Wrapped Ether",
+            "totalLiquidity": "746214.985446349950579597"
+          },
+          "totalSupply": "2.189942757983578853"
+        },
+        {
+          "dailyVolumeToken0": "59442900.830037",
+          "dailyVolumeToken1": "35036.78511743631208489",
+          "dailyVolumeUSD": "59464443.05663102864302893696974509",
+          "date": 1616889600,
+          "reserveUSD": "268238211.5767025284563773153033321",
+          "token0": {
+            "name": "USD//C",
+            "totalLiquidity": "293699483.813838"
+          },
+          "token1": {
+            "name": "Wrapped Ether",
+            "totalLiquidity": "746214.985446349950579597"
+          },
+          "totalSupply": "2.205878072579470258"
+        },
+        {
+          "dailyVolumeToken0": "117760344.106822",
+          "dailyVolumeToken1": "65813.566512292549041132",
+          "dailyVolumeUSD": "117490795.7086423509798275760204368",
+          "date": 1616976000,
+          "reserveUSD": "276026715.9221136710751371042272511",
+          "token0": {
+            "name": "USD//C",
+            "totalLiquidity": "293699483.813838"
+          },
+          "token1": {
+            "name": "Wrapped Ether",
+            "totalLiquidity": "746214.985446349950579597"
+          },
+          "totalSupply": "2.185055343680602568"
+        },
+        {
+          "dailyVolumeToken0": "78212534.877494",
+          "dailyVolumeToken1": "42774.38863061673518548",
+          "dailyVolumeUSD": "78197780.13588448648983481522077762",
+          "date": 1617062400,
+          "reserveUSD": "277757689.1675096874077836403856693",
+          "token0": {
+            "name": "USD//C",
+            "totalLiquidity": "293699483.813838"
+          },
+          "token1": {
+            "name": "Wrapped Ether",
+            "totalLiquidity": "746214.985446349950579597"
+          },
+          "totalSupply": "2.180290603080333256"
+        },
+        {
+          "dailyVolumeToken0": "103798349.489455",
+          "dailyVolumeToken1": "55586.641037794645201812",
+          "dailyVolumeUSD": "103752197.2888337302689959670858926",
+          "date": 1617148800,
+          "reserveUSD": "288775860.4447359416131516784599315",
+          "token0": {
+            "name": "USD//C",
+            "totalLiquidity": "293699483.813838"
+          },
+          "token1": {
+            "name": "Wrapped Ether",
+            "totalLiquidity": "746214.985446349950579597"
+          },
+          "totalSupply": "2.220146535931331092"
+        },
+        {
+          "dailyVolumeToken0": "93454238.354144",
+          "dailyVolumeToken1": "48260.543347735254299752",
+          "dailyVolumeUSD": "93474533.56467854687102437009224179",
+          "date": 1617235200,
+          "reserveUSD": "282061213.3683849439191715618014511",
+          "token0": {
+            "name": "USD//C",
+            "totalLiquidity": "293699483.813838"
+          },
+          "token1": {
+            "name": "Wrapped Ether",
+            "totalLiquidity": "746214.985446349950579597"
+          },
+          "totalSupply": "2.133963151800116592"
+        },
+        {
+          "dailyVolumeToken0": "105131897.390953",
+          "dailyVolumeToken1": "51476.580664962239651119",
+          "dailyVolumeUSD": "105226596.9084309809135803606455909",
+          "date": 1617321600,
+          "reserveUSD": "303050465.6912191397502226512020495",
+          "token0": {
+            "name": "USD//C",
+            "totalLiquidity": "293699483.813838"
+          },
+          "token1": {
+            "name": "Wrapped Ether",
+            "totalLiquidity": "746214.985446349950579597"
+          },
+          "totalSupply": "2.203025565423725013"
+        },
+        {
+          "dailyVolumeToken0": "123681389.310458",
+          "dailyVolumeToken1": "59714.309403762717659878",
+          "dailyVolumeUSD": "124003916.5509132051082300408868489",
+          "date": 1617408000,
+          "reserveUSD": "294333083.3516504644370357759223434",
+          "token0": {
+            "name": "USD//C",
+            "totalLiquidity": "293699483.813838"
+          },
+          "token1": {
+            "name": "Wrapped Ether",
+            "totalLiquidity": "746214.985446349950579597"
+          },
+          "totalSupply": "2.199788496789556959"
+        },
+        {
+          "dailyVolumeToken0": "65869567.950549",
+          "dailyVolumeToken1": "32175.646913501408228146",
+          "dailyVolumeUSD": "65898355.4379597937707919365056784",
+          "date": 1617494400,
+          "reserveUSD": "295935159.4080108858226729660530693",
+          "token0": {
+            "name": "USD//C",
+            "totalLiquidity": "293699483.813838"
+          },
+          "token1": {
+            "name": "Wrapped Ether",
+            "totalLiquidity": "746214.985446349950579597"
+          },
+          "totalSupply": "2.178126253174172784"
+        },
+        {
+          "dailyVolumeToken0": "63825261.868553",
+          "dailyVolumeToken1": "30733.38015675623809813",
+          "dailyVolumeUSD": "63854712.54883748951349719227010549",
+          "date": 1617580800,
+          "reserveUSD": "299002770.6349367012285065386900473",
+          "token0": {
+            "name": "USD//C",
+            "totalLiquidity": "293699483.813838"
+          },
+          "token1": {
+            "name": "Wrapped Ether",
+            "totalLiquidity": "746214.985446349950579597"
+          },
+          "totalSupply": "2.186112346406190698"
+        },
+        {
+          "dailyVolumeToken0": "84711502.696485",
+          "dailyVolumeToken1": "40158.638744775408104609",
+          "dailyVolumeUSD": "84725584.01928870150005894047756689",
+          "date": 1617667200,
+          "reserveUSD": "302852434.1911567946835183304690573",
+          "token0": {
+            "name": "USD//C",
+            "totalLiquidity": "293699483.813838"
+          },
+          "token1": {
+            "name": "Wrapped Ether",
+            "totalLiquidity": "746214.985446349950579597"
+          },
+          "totalSupply": "2.204592448387275015"
+        },
+        {
+          "dailyVolumeToken0": "117233833.619255",
+          "dailyVolumeToken1": "58338.3881660860655499",
+          "dailyVolumeUSD": "117345853.6114226383571813464257674",
+          "date": 1617753600,
+          "reserveUSD": "293234923.7138107402544987618198284",
+          "token0": {
+            "name": "USD//C",
+            "totalLiquidity": "293699483.813838"
+          },
+          "token1": {
+            "name": "Wrapped Ether",
+            "totalLiquidity": "746214.985446349950579597"
+          },
+          "totalSupply": "2.214244920088280433"
+        },
+        {
+          "dailyVolumeToken0": "74434953.610006",
+          "dailyVolumeToken1": "36734.111369736238417384",
+          "dailyVolumeUSD": "74463120.73116594316786232184807931",
+          "date": 1617840000,
+          "reserveUSD": "281486171.5001367427458487304815655",
+          "token0": {
+            "name": "USD//C",
+            "totalLiquidity": "293699483.813838"
+          },
+          "token1": {
+            "name": "Wrapped Ether",
+            "totalLiquidity": "746214.985446349950579597"
+          },
+          "totalSupply": "2.063602466058074852"
+        },
+        {
+          "dailyVolumeToken0": "60148913.836466",
+          "dailyVolumeToken1": "29052.40555208347196802",
+          "dailyVolumeUSD": "60215059.83286116737751300301685256",
+          "date": 1617926400,
+          "reserveUSD": "274697904.4228478821472137769603624",
+          "token0": {
+            "name": "USD//C",
+            "totalLiquidity": "293699483.813838"
+          },
+          "token1": {
+            "name": "Wrapped Ether",
+            "totalLiquidity": "746214.985446349950579597"
+          },
+          "totalSupply": "2.017809174823244524"
+        },
+        {
+          "dailyVolumeToken0": "89178413.389192",
+          "dailyVolumeToken1": "41856.878050930277134931",
+          "dailyVolumeUSD": "89231740.6820483323229600882716768",
+          "date": 1618012800,
+          "reserveUSD": "279472687.5766157241077279190841254",
+          "token0": {
+            "name": "USD//C",
+            "totalLiquidity": "293699483.813838"
+          },
+          "token1": {
+            "name": "Wrapped Ether",
+            "totalLiquidity": "746214.985446349950579597"
+          },
+          "totalSupply": "2.018840099969924849"
+        },
+        {
+          "dailyVolumeToken0": "81122344.238589",
+          "dailyVolumeToken1": "38104.120045596528198074",
+          "dailyVolumeUSD": "81367923.10266241734069779570122352",
+          "date": 1618099200,
+          "reserveUSD": "287166200.0742034889944849653092729",
+          "token0": {
+            "name": "USD//C",
+            "totalLiquidity": "293699483.813838"
+          },
+          "token1": {
+            "name": "Wrapped Ether",
+            "totalLiquidity": "746214.985446349950579597"
+          },
+          "totalSupply": "2.066053648263483514"
+        },
+        {
+          "dailyVolumeToken0": "83936976.99749",
+          "dailyVolumeToken1": "39183.430815636676137314",
+          "dailyVolumeUSD": "84084725.47573042768856436555988561",
+          "date": 1618185600,
+          "reserveUSD": "290849523.3701795981318791101219578",
+          "token0": {
+            "name": "USD//C",
+            "totalLiquidity": "293699483.813838"
+          },
+          "token1": {
+            "name": "Wrapped Ether",
+            "totalLiquidity": "746214.985446349950579597"
+          },
+          "totalSupply": "2.089818879204518266"
+        },
+        {
+          "dailyVolumeToken0": "105139918.738458",
+          "dailyVolumeToken1": "47452.409720072251664092",
+          "dailyVolumeUSD": "105406421.9415982300978245656113676",
+          "date": 1618272000,
+          "reserveUSD": "304659770.2154303894196200445039315",
+          "token0": {
+            "name": "USD//C",
+            "totalLiquidity": "293699483.813838"
+          },
+          "token1": {
+            "name": "Wrapped Ether",
+            "totalLiquidity": "746214.985446349950579597"
+          },
+          "totalSupply": "2.113291726877136833"
+        },
+        {
+          "dailyVolumeToken0": "176058102.907584",
+          "dailyVolumeToken1": "74884.776373449390314925",
+          "dailyVolumeUSD": "176280802.3574788873604729605959308",
+          "date": 1618358400,
+          "reserveUSD": "311544382.8904380267869379794159844",
+          "token0": {
+            "name": "USD//C",
+            "totalLiquidity": "293699483.813838"
+          },
+          "token1": {
+            "name": "Wrapped Ether",
+            "totalLiquidity": "746214.985446349950579597"
+          },
+          "totalSupply": "2.101788461765213299"
+        },
+        {
+          "dailyVolumeToken0": "108844689.582195",
+          "dailyVolumeToken1": "44249.783628788415664173",
+          "dailyVolumeUSD": "108867800.8849928172150120466439102",
+          "date": 1618444800,
+          "reserveUSD": "313568542.726557951091304577237288",
+          "token0": {
+            "name": "USD//C",
+            "totalLiquidity": "293699483.813838"
+          },
+          "token1": {
+            "name": "Wrapped Ether",
+            "totalLiquidity": "746214.985446349950579597"
+          },
+          "totalSupply": "2.075515119434701888"
+        },
+        {
+          "dailyVolumeToken0": "117868386.615851",
+          "dailyVolumeToken1": "48710.50767297262283263",
+          "dailyVolumeUSD": "117870378.0122516779507962673288247",
+          "date": 1618531200,
+          "reserveUSD": "309676349.2329294981164128896352622",
+          "token0": {
+            "name": "USD//C",
+            "totalLiquidity": "293699483.813838"
+          },
+          "token1": {
+            "name": "Wrapped Ether",
+            "totalLiquidity": "746214.985446349950579597"
+          },
+          "totalSupply": "2.083298940966870049"
+        },
+        {
+          "dailyVolumeToken0": "90186547.967644",
+          "dailyVolumeToken1": "37463.959687382847678019",
+          "dailyVolumeUSD": "90212968.51552326734955114131156335",
+          "date": 1618617600,
+          "reserveUSD": "312793203.746310616927710335839697",
+          "token0": {
+            "name": "USD//C",
+            "totalLiquidity": "293699483.813838"
+          },
+          "token1": {
+            "name": "Wrapped Ether",
+            "totalLiquidity": "746214.985446349950579597"
+          },
+          "totalSupply": "2.149342402989637929"
+        },
+        {
+          "dailyVolumeToken0": "263788561.825946",
+          "dailyVolumeToken1": "122689.111006789010010514",
+          "dailyVolumeUSD": "263905068.8745638908915152390964018",
+          "date": 1618704000,
+          "reserveUSD": "309376714.0818169658374653738627059",
+          "token0": {
+            "name": "USD//C",
+            "totalLiquidity": "293699483.813838"
+          },
+          "token1": {
+            "name": "Wrapped Ether",
+            "totalLiquidity": "746214.985446349950579597"
+          },
+          "totalSupply": "2.16030327627609911"
+        },
+        {
+          "dailyVolumeToken0": "121540370.595067",
+          "dailyVolumeToken1": "55673.266837886306270828",
+          "dailyVolumeUSD": "121559789.9312609557091765420482864",
+          "date": 1618790400,
+          "reserveUSD": "306233954.1203981960475593300446296",
+          "token0": {
+            "name": "USD//C",
+            "totalLiquidity": "293699483.813838"
+          },
+          "token1": {
+            "name": "Wrapped Ether",
+            "totalLiquidity": "746214.985446349950579597"
+          },
+          "totalSupply": "2.171737652713193919"
+        },
+        {
+          "dailyVolumeToken0": "169991888.965073",
+          "dailyVolumeToken1": "78242.65531163681400215",
+          "dailyVolumeUSD": "169963195.4612644992150512287521034",
+          "date": 1618876800,
+          "reserveUSD": "323507744.5391837580052366215921631",
+          "token0": {
+            "name": "USD//C",
+            "totalLiquidity": "293699483.813838"
+          },
+          "token1": {
+            "name": "Wrapped Ether",
+            "totalLiquidity": "746214.985446349950579597"
+          },
+          "totalSupply": "2.203830973773483871"
+        },
+        {
+          "dailyVolumeToken0": "133477628.960195",
+          "dailyVolumeToken1": "56499.654997016758878854",
+          "dailyVolumeUSD": "133430611.5526333029812530586152242",
+          "date": 1618963200,
+          "reserveUSD": "344246758.6591898304379594642896359",
+          "token0": {
+            "name": "USD//C",
+            "totalLiquidity": "293699483.813838"
+          },
+          "token1": {
+            "name": "Wrapped Ether",
+            "totalLiquidity": "746214.985446349950579597"
+          },
+          "totalSupply": "2.327680975852334702"
+        },
+        {
+          "dailyVolumeToken0": "254669049.518612",
+          "dailyVolumeToken1": "103347.768373353284180692",
+          "dailyVolumeUSD": "254746424.126642763900685054571397",
+          "date": 1619049600,
+          "reserveUSD": "358766448.2687133080162287579279481",
+          "token0": {
+            "name": "USD//C",
+            "totalLiquidity": "293699483.813838"
+          },
+          "token1": {
+            "name": "Wrapped Ether",
+            "totalLiquidity": "746214.985446349950579597"
+          },
+          "totalSupply": "2.401360082344777755"
+        },
+        {
+          "dailyVolumeToken0": "308746058.963771",
+          "dailyVolumeToken1": "137014.443666525760908691",
+          "dailyVolumeUSD": "308805316.4917079936037184179028447",
+          "date": 1619136000,
+          "reserveUSD": "362047227.5440814549077078398280977",
+          "token0": {
+            "name": "USD//C",
+            "totalLiquidity": "293699483.813838"
+          },
+          "token1": {
+            "name": "Wrapped Ether",
+            "totalLiquidity": "746214.985446349950579597"
+          },
+          "totalSupply": "2.438762970446554247"
+        },
+        {
+          "dailyVolumeToken0": "114189412.159978",
+          "dailyVolumeToken1": "50710.00062330882348846",
+          "dailyVolumeUSD": "114166713.4161562450746518112756282",
+          "date": 1619222400,
+          "reserveUSD": "354481191.3783782868655385472492097",
+          "token0": {
+            "name": "USD//C",
+            "totalLiquidity": "293699483.813838"
+          },
+          "token1": {
+            "name": "Wrapped Ether",
+            "totalLiquidity": "746214.985446349950579597"
+          },
+          "totalSupply": "2.463451778032040066"
+        },
+        {
+          "dailyVolumeToken0": "121631514.147787",
+          "dailyVolumeToken1": "53992.048032475576310059",
+          "dailyVolumeUSD": "121547498.1654459146019796993152538",
+          "date": 1619308800,
+          "reserveUSD": "366546276.8710752250252807193884771",
+          "token0": {
+            "name": "USD//C",
+            "totalLiquidity": "293699483.813838"
+          },
+          "token1": {
+            "name": "Wrapped Ether",
+            "totalLiquidity": "746214.985446349950579597"
+          },
+          "totalSupply": "2.488820877829365489"
+        },
+        {
+          "dailyVolumeToken0": "133301020.870587",
+          "dailyVolumeToken1": "54033.507939743486219006",
+          "dailyVolumeUSD": "133199465.0700297512778609006083732",
+          "date": 1619395200,
+          "reserveUSD": "389451268.1054210882061725189253572",
+          "token0": {
+            "name": "USD//C",
+            "totalLiquidity": "293699483.813838"
+          },
+          "token1": {
+            "name": "Wrapped Ether",
+            "totalLiquidity": "746214.985446349950579597"
+          },
+          "totalSupply": "2.527202506034598216"
+        },
+        {
+          "dailyVolumeToken0": "116291630.453747",
+          "dailyVolumeToken1": "44829.687879712505285681",
+          "dailyVolumeUSD": "116199923.7079584860711390266973674",
+          "date": 1619481600,
+          "reserveUSD": "398335058.0241075621539171761707632",
+          "token0": {
+            "name": "USD//C",
+            "totalLiquidity": "293699483.813838"
+          },
+          "token1": {
+            "name": "Wrapped Ether",
+            "totalLiquidity": "746214.985446349950579597"
+          },
+          "totalSupply": "2.519470208087031874"
+        },
+        {
+          "dailyVolumeToken0": "126605996.283397",
+          "dailyVolumeToken1": "47207.65938725515094061",
+          "dailyVolumeUSD": "126537362.6384534636067102208422684",
+          "date": 1619568000,
+          "reserveUSD": "410201855.4676093194018117484054493",
+          "token0": {
+            "name": "USD//C",
+            "totalLiquidity": "293699483.813838"
+          },
+          "token1": {
+            "name": "Wrapped Ether",
+            "totalLiquidity": "746214.985446349950579597"
+          },
+          "totalSupply": "2.551244972046565737"
+        },
+        {
+          "dailyVolumeToken0": "106445840.112174",
+          "dailyVolumeToken1": "38916.400116433171845905",
+          "dailyVolumeUSD": "106411948.9955303454447475831509427",
+          "date": 1619654400,
+          "reserveUSD": "416586929.8012983745897441243821319",
+          "token0": {
+            "name": "USD//C",
+            "totalLiquidity": "293699483.813838"
+          },
+          "token1": {
+            "name": "Wrapped Ether",
+            "totalLiquidity": "746214.985446349950579597"
+          },
+          "totalSupply": "2.582976889053328314"
+        },
+        {
+          "dailyVolumeToken0": "88397391.989497",
+          "dailyVolumeToken1": "32068.391924527796354903",
+          "dailyVolumeUSD": "88387766.30100560450089306217400365",
+          "date": 1619740800,
+          "reserveUSD": "414143414.6179075179590567002192964",
+          "token0": {
+            "name": "USD//C",
+            "totalLiquidity": "293699483.813838"
+          },
+          "token1": {
+            "name": "Wrapped Ether",
+            "totalLiquidity": "746214.985446349950579597"
+          },
+          "totalSupply": "2.557773882374533684"
+        },
+        {
+          "dailyVolumeToken0": "119766255.169008",
+          "dailyVolumeToken1": "41641.579360118762382405",
+          "dailyVolumeUSD": "119808074.4733270227543088817604287",
+          "date": 1619827200,
+          "reserveUSD": "426574511.9539221193169671564098792",
+          "token0": {
+            "name": "USD//C",
+            "totalLiquidity": "293699483.813838"
+          },
+          "token1": {
+            "name": "Wrapped Ether",
+            "totalLiquidity": "746214.985446349950579597"
+          },
+          "totalSupply": "2.555749570687213364"
+        },
+        {
+          "dailyVolumeToken0": "102036170.570714",
+          "dailyVolumeToken1": "34810.143761255883056003",
+          "dailyVolumeUSD": "102051479.3181821315572997549759497",
+          "date": 1619913600,
+          "reserveUSD": "428854903.4787675048012459706563618",
+          "token0": {
+            "name": "USD//C",
+            "totalLiquidity": "293699483.813838"
+          },
+          "token1": {
+            "name": "Wrapped Ether",
+            "totalLiquidity": "746214.985446349950579597"
+          },
+          "totalSupply": "2.565636141246790262"
+        },
+        {
+          "dailyVolumeToken0": "210007314.345951",
+          "dailyVolumeToken1": "65666.991836662782381523",
+          "dailyVolumeUSD": "209959637.4479272960674689876175175",
+          "date": 1620000000,
+          "reserveUSD": "456144316.6391208036744057296498138",
+          "token0": {
+            "name": "USD//C",
+            "totalLiquidity": "293699483.813838"
+          },
+          "token1": {
+            "name": "Wrapped Ether",
+            "totalLiquidity": "746214.985446349950579597"
+          },
+          "totalSupply": "2.526468708922934595"
+        },
+        {
+          "dailyVolumeToken0": "327857428.22109",
+          "dailyVolumeToken1": "98353.804664759981642328",
+          "dailyVolumeUSD": "327855318.4908842357110550630414454",
+          "date": 1620086400,
+          "reserveUSD": "435038542.4838129060223696298228525",
+          "token0": {
+            "name": "USD//C",
+            "totalLiquidity": "293699483.813838"
+          },
+          "token1": {
+            "name": "Wrapped Ether",
+            "totalLiquidity": "746214.985446349950579597"
+          },
+          "totalSupply": "2.471240396249730596"
+        },
+        {
+          "dailyVolumeToken0": "209750640.407975",
+          "dailyVolumeToken1": "62683.586174532338432544",
+          "dailyVolumeUSD": "209864806.6440224181144880748184167",
+          "date": 1620172800,
+          "reserveUSD": "430576977.0383415846929284479612908",
+          "token0": {
+            "name": "USD//C",
+            "totalLiquidity": "293699483.813838"
+          },
+          "token1": {
+            "name": "Wrapped Ether",
+            "totalLiquidity": "746214.985446349950579597"
+          },
+          "totalSupply": "2.346003519698705937"
+        },
+        {
+          "dailyVolumeToken0": "116809185.342121",
+          "dailyVolumeToken1": "33517.482883503563305793",
+          "dailyVolumeUSD": "116768890.8350619194831454218551317",
+          "date": 1620259200,
+          "reserveUSD": "383429550.3332797692795750039901093",
+          "token0": {
+            "name": "USD//C",
+            "totalLiquidity": "293699483.813838"
+          },
+          "token1": {
+            "name": "Wrapped Ether",
+            "totalLiquidity": "746214.985446349950579597"
+          },
+          "totalSupply": "2.093542129029118085"
+        },
+        {
+          "dailyVolumeToken0": "83850508.232115",
+          "dailyVolumeToken1": "24146.167779298627881608",
+          "dailyVolumeUSD": "83823980.35675895184859024323456755",
+          "date": 1620345600,
+          "reserveUSD": "363836139.2016231939506326458868448",
+          "token0": {
+            "name": "USD//C",
+            "totalLiquidity": "293699483.813838"
+          },
+          "token1": {
+            "name": "Wrapped Ether",
+            "totalLiquidity": "746214.985446349950579597"
+          },
+          "totalSupply": "1.988426856162576143"
+        },
+        {
+          "dailyVolumeToken0": "119679537.464472",
+          "dailyVolumeToken1": "32250.997411532087832822",
+          "dailyVolumeUSD": "119756689.7098813451913052659409456",
+          "date": 1620432000,
+          "reserveUSD": "369219799.7491314562923384827017212",
+          "token0": {
+            "name": "USD//C",
+            "totalLiquidity": "293699483.813838"
+          },
+          "token1": {
+            "name": "Wrapped Ether",
+            "totalLiquidity": "746214.985446349950579597"
+          },
+          "totalSupply": "1.903546335164164761"
+        },
+        {
+          "dailyVolumeToken0": "108548984.444678",
+          "dailyVolumeToken1": "27967.81882811662793745",
+          "dailyVolumeUSD": "108579883.4578534471708425183597962",
+          "date": 1620518400,
+          "reserveUSD": "351163197.3372780411035491696950629",
+          "token0": {
+            "name": "USD//C",
+            "totalLiquidity": "293699483.813838"
+          },
+          "token1": {
+            "name": "Wrapped Ether",
+            "totalLiquidity": "746214.985446349950579597"
+          },
+          "totalSupply": "1.8066335479352518"
+        },
+        {
+          "dailyVolumeToken0": "224150870.147897",
+          "dailyVolumeToken1": "55770.985101798244906467",
+          "dailyVolumeUSD": "224496135.330157337811363823121328",
+          "date": 1620604800,
+          "reserveUSD": "347657690.2798167514023726858220075",
+          "token0": {
+            "name": "USD//C",
+            "totalLiquidity": "293699483.813838"
+          },
+          "token1": {
+            "name": "Wrapped Ether",
+            "totalLiquidity": "746214.985446349950579597"
+          },
+          "totalSupply": "1.777045158040449851"
+        },
+        {
+          "dailyVolumeToken0": "134068968.681246",
+          "dailyVolumeToken1": "33856.839541691834133458",
+          "dailyVolumeUSD": "134024581.7365459895359335535702125",
+          "date": 1620691200,
+          "reserveUSD": "351092670.8901446974616621370447829",
+          "token0": {
+            "name": "USD//C",
+            "totalLiquidity": "293699483.813838"
+          },
+          "token1": {
+            "name": "Wrapped Ether",
+            "totalLiquidity": "746214.985446349950579597"
+          },
+          "totalSupply": "1.745067988680324798"
+        },
+        {
+          "dailyVolumeToken0": "241175413.979825",
+          "dailyVolumeToken1": "58267.280836550515169834",
+          "dailyVolumeUSD": "241180901.3335072364262118443306483",
+          "date": 1620777600,
+          "reserveUSD": "332513997.0156637644692424656384395",
+          "token0": {
+            "name": "USD//C",
+            "totalLiquidity": "293699483.813838"
+          },
+          "token1": {
+            "name": "Wrapped Ether",
+            "totalLiquidity": "746214.985446349950579597"
+          },
+          "totalSupply": "1.723456418012841395"
+        },
+        {
+          "dailyVolumeToken0": "318920775.30791",
+          "dailyVolumeToken1": "84707.033507035024754315",
+          "dailyVolumeUSD": "319148809.6439754016379245336179187",
+          "date": 1620864000,
+          "reserveUSD": "327478247.64553157106113010881267",
+          "token0": {
+            "name": "USD//C",
+            "totalLiquidity": "293699483.813838"
+          },
+          "token1": {
+            "name": "Wrapped Ether",
+            "totalLiquidity": "746214.985446349950579597"
+          },
+          "totalSupply": "1.714449952967618514"
+        },
+        {
+          "dailyVolumeToken0": "141695903.65536",
+          "dailyVolumeToken1": "35867.42452821803228286",
+          "dailyVolumeUSD": "141650726.2783649522380106937803808",
+          "date": 1620950400,
+          "reserveUSD": "337051159.8119179881897970654935017",
+          "token0": {
+            "name": "USD//C",
+            "totalLiquidity": "293699483.813838"
+          },
+          "token1": {
+            "name": "Wrapped Ether",
+            "totalLiquidity": "746214.985446349950579597"
+          },
+          "totalSupply": "1.682000137240198684"
+        },
+        {
+          "dailyVolumeToken0": "144532402.587397",
+          "dailyVolumeToken1": "37676.867360571317896251",
+          "dailyVolumeUSD": "144518893.9000982342866708023020772",
+          "date": 1621036800,
+          "reserveUSD": "317664388.1630037228348026642172876",
+          "token0": {
+            "name": "USD//C",
+            "totalLiquidity": "293699483.813838"
+          },
+          "token1": {
+            "name": "Wrapped Ether",
+            "totalLiquidity": "746214.985446349950579597"
+          },
+          "totalSupply": "1.6767046537313819"
+        },
+        {
+          "dailyVolumeToken0": "206401409.375215",
+          "dailyVolumeToken1": "57836.419882702143429558",
+          "dailyVolumeUSD": "206287427.4788459095849646675926987",
+          "date": 1621123200,
+          "reserveUSD": "314631319.6988473503272120764976527",
+          "token0": {
+            "name": "USD//C",
+            "totalLiquidity": "293699483.813838"
+          },
+          "token1": {
+            "name": "Wrapped Ether",
+            "totalLiquidity": "746214.985446349950579597"
+          },
+          "totalSupply": "1.671664797366613646"
+        },
+        {
+          "dailyVolumeToken0": "238967065.623638",
+          "dailyVolumeToken1": "71671.666708917682376221",
+          "dailyVolumeUSD": "238955675.5883532984198231247228852",
+          "date": 1621209600,
+          "reserveUSD": "299425618.8882243746611954000439828",
+          "token0": {
+            "name": "USD//C",
+            "totalLiquidity": "293699483.813838"
+          },
+          "token1": {
+            "name": "Wrapped Ether",
+            "totalLiquidity": "746214.985446349950579597"
+          },
+          "totalSupply": "1.656609011441216608"
+        },
+        {
+          "dailyVolumeToken0": "145666526.232113",
+          "dailyVolumeToken1": "42907.650613417936661134",
+          "dailyVolumeUSD": "145619482.4407295217808746383832427",
+          "date": 1621296000,
+          "reserveUSD": "302381862.170933625324911422619267",
+          "token0": {
+            "name": "USD//C",
+            "totalLiquidity": "293699483.813838"
+          },
+          "token1": {
+            "name": "Wrapped Ether",
+            "totalLiquidity": "746214.985446349950579597"
+          },
+          "totalSupply": "1.646652077703704458"
+        },
+        {
+          "dailyVolumeToken0": "723007318.666251",
+          "dailyVolumeToken1": "279856.998515506460308658",
+          "dailyVolumeUSD": "722100840.9924569754537381524911771",
+          "date": 1621382400,
+          "reserveUSD": "215654961.6232358114201574943714482",
+          "token0": {
+            "name": "USD//C",
+            "totalLiquidity": "293699483.813838"
+          },
+          "token1": {
+            "name": "Wrapped Ether",
+            "totalLiquidity": "746214.985446349950579597"
+          },
+          "totalSupply": "1.368270117457667772"
+        },
+        {
+          "dailyVolumeToken0": "391834509.692911",
+          "dailyVolumeToken1": "153426.759938907662060369",
+          "dailyVolumeUSD": "391901800.9731089007768104961382699",
+          "date": 1621468800,
+          "reserveUSD": "230142215.1142974447107773100114378",
+          "token0": {
+            "name": "USD//C",
+            "totalLiquidity": "293699483.813838"
+          },
+          "token1": {
+            "name": "Wrapped Ether",
+            "totalLiquidity": "746214.985446349950579597"
+          },
+          "totalSupply": "1.363683210706162034"
+        },
+        {
+          "dailyVolumeToken0": "320764420.106791",
+          "dailyVolumeToken1": "130504.499415880572106479",
+          "dailyVolumeUSD": "320722918.4862411547945366637257092",
+          "date": 1621555200,
+          "reserveUSD": "218296961.635136779625672086839775",
+          "token0": {
+            "name": "USD//C",
+            "totalLiquidity": "293699483.813838"
+          },
+          "token1": {
+            "name": "Wrapped Ether",
+            "totalLiquidity": "746214.985446349950579597"
+          },
+          "totalSupply": "1.378409328253595602"
+        },
+        {
+          "dailyVolumeToken0": "184222150.25327",
+          "dailyVolumeToken1": "79014.861441067805575596",
+          "dailyVolumeUSD": "184189634.0748969959435978263693514",
+          "date": 1621641600,
+          "reserveUSD": "213962722.8321382578112786830503555",
+          "token0": {
+            "name": "USD//C",
+            "totalLiquidity": "293699483.813838"
+          },
+          "token1": {
+            "name": "Wrapped Ether",
+            "totalLiquidity": "746214.985446349950579597"
+          },
+          "totalSupply": "1.385375240282835469"
+        },
+        {
+          "dailyVolumeToken0": "427244164.741192",
+          "dailyVolumeToken1": "216231.953675573836127025",
+          "dailyVolumeUSD": "427207086.2008413148662305208759279",
+          "date": 1621728000,
+          "reserveUSD": "229819077.2974934758961167689972111",
+          "token0": {
+            "name": "USD//C",
+            "totalLiquidity": "293699483.813838"
+          },
+          "token1": {
+            "name": "Wrapped Ether",
+            "totalLiquidity": "746214.985446349950579597"
+          },
+          "totalSupply": "1.54366208681023446"
+        },
+        {
+          "dailyVolumeToken0": "246497501.499774",
+          "dailyVolumeToken1": "103043.206747284766204087",
+          "dailyVolumeUSD": "246340819.5307354951924121336320107",
+          "date": 1621814400,
+          "reserveUSD": "303154773.4391388348243047434690451",
+          "token0": {
+            "name": "USD//C",
+            "totalLiquidity": "293699483.813838"
+          },
+          "token1": {
+            "name": "Wrapped Ether",
+            "totalLiquidity": "746214.985446349950579597"
+          },
+          "totalSupply": "1.813472389734045176"
+        },
+        {
+          "dailyVolumeToken0": "203816454.701266",
+          "dailyVolumeToken1": "79224.829030420280970444",
+          "dailyVolumeUSD": "203701335.2664473986268929860266047",
+          "date": 1621900800,
+          "reserveUSD": "309198299.7410405927830742644509625",
+          "token0": {
+            "name": "USD//C",
+            "totalLiquidity": "293699483.813838"
+          },
+          "token1": {
+            "name": "Wrapped Ether",
+            "totalLiquidity": "746214.985446349950579597"
+          },
+          "totalSupply": "1.824732355491256512"
+        },
+        {
+          "dailyVolumeToken0": "156956611.471205",
+          "dailyVolumeToken1": "56559.832921483081060112",
+          "dailyVolumeUSD": "156823494.3690045315818828080343485",
+          "date": 1621987200,
+          "reserveUSD": "317101201.2956353956142914292572557",
+          "token0": {
+            "name": "USD//C",
+            "totalLiquidity": "293699483.813838"
+          },
+          "token1": {
+            "name": "Wrapped Ether",
+            "totalLiquidity": "746214.985446349950579597"
+          },
+          "totalSupply": "1.809753912230579854"
+        },
+        {
+          "dailyVolumeToken0": "103866268.217869",
+          "dailyVolumeToken1": "37688.069017001886970055",
+          "dailyVolumeUSD": "103801042.0122784373369284281436354",
+          "date": 1622073600,
+          "reserveUSD": "278739024.4638330089296484052320639",
+          "token0": {
+            "name": "USD//C",
+            "totalLiquidity": "293699483.813838"
+          },
+          "token1": {
+            "name": "Wrapped Ether",
+            "totalLiquidity": "746214.985446349950579597"
+          },
+          "totalSupply": "1.628370315307225503"
+        },
+        {
+          "dailyVolumeToken0": "154162565.36821",
+          "dailyVolumeToken1": "61210.44762696120348828",
+          "dailyVolumeUSD": "154139039.6421963075308408863906328",
+          "date": 1622160000,
+          "reserveUSD": "253245743.7758898782504000557634587",
+          "token0": {
+            "name": "USD//C",
+            "totalLiquidity": "293699483.813838"
+          },
+          "token1": {
+            "name": "Wrapped Ether",
+            "totalLiquidity": "746214.985446349950579597"
+          },
+          "totalSupply": "1.572976795316866195"
+        },
+        {
+          "dailyVolumeToken0": "108887433.799749",
+          "dailyVolumeToken1": "45747.537649163950064859",
+          "dailyVolumeUSD": "108856629.6627133625240116015623356",
+          "date": 1622246400,
+          "reserveUSD": "256435873.0468817566901799156142061",
+          "token0": {
+            "name": "USD//C",
+            "totalLiquidity": "293699483.813838"
+          },
+          "token1": {
+            "name": "Wrapped Ether",
+            "totalLiquidity": "746214.985446349950579597"
+          },
+          "totalSupply": "1.637648273104339865"
+        },
+        {
+          "dailyVolumeToken0": "85637695.965827",
+          "dailyVolumeToken1": "36377.349117729295959602",
+          "dailyVolumeUSD": "85593729.5421900788328474789196674",
+          "date": 1622332800,
+          "reserveUSD": "267698998.1850048491603456273680436",
+          "token0": {
+            "name": "USD//C",
+            "totalLiquidity": "293699483.813838"
+          },
+          "token1": {
+            "name": "Wrapped Ether",
+            "totalLiquidity": "746214.985446349950579597"
+          },
+          "totalSupply": "1.669195187146320779"
+        },
+        {
+          "dailyVolumeToken0": "89771773.979481",
+          "dailyVolumeToken1": "35948.48778017627807171",
+          "dailyVolumeUSD": "89740087.36961330785367702324358177",
+          "date": 1622419200,
+          "reserveUSD": "281377129.2614020171751073153468422",
+          "token0": {
+            "name": "USD//C",
+            "totalLiquidity": "293699483.813838"
+          },
+          "token1": {
+            "name": "Wrapped Ether",
+            "totalLiquidity": "746214.985446349950579597"
+          },
+          "totalSupply": "1.645968162588458936"
+        },
+        {
+          "dailyVolumeToken0": "76267265.465333",
+          "dailyVolumeToken1": "29223.94164098202335613",
+          "dailyVolumeUSD": "76251382.1830882404470234107808526",
+          "date": 1622505600,
+          "reserveUSD": "274720845.1654113359383224921725621",
+          "token0": {
+            "name": "USD//C",
+            "totalLiquidity": "293699483.813838"
+          },
+          "token1": {
+            "name": "Wrapped Ether",
+            "totalLiquidity": "746214.985446349950579597"
+          },
+          "totalSupply": "1.629987312132325663"
+        },
+        {
+          "dailyVolumeToken0": "48483346.611435",
+          "dailyVolumeToken1": "18041.56104819977885527",
+          "dailyVolumeUSD": "48476662.89891916433773134133008737",
+          "date": 1622592000,
+          "reserveUSD": "286921289.323219504400998984090858",
+          "token0": {
+            "name": "USD//C",
+            "totalLiquidity": "293699483.813838"
+          },
+          "token1": {
+            "name": "Wrapped Ether",
+            "totalLiquidity": "746214.985446349950579597"
+          },
+          "totalSupply": "1.674318569034736633"
+        },
+        {
+          "dailyVolumeToken0": "92729091.793116",
+          "dailyVolumeToken1": "33073.210259243733687149",
+          "dailyVolumeUSD": "92582929.97891103637130473609470774",
+          "date": 1622678400,
+          "reserveUSD": "292225255.4806228703830811956409149",
+          "token0": {
+            "name": "USD//C",
+            "totalLiquidity": "293699483.813838"
+          },
+          "token1": {
+            "name": "Wrapped Ether",
+            "totalLiquidity": "746214.985446349950579597"
+          },
+          "totalSupply": "1.660576432380976822"
+        },
+        {
+          "dailyVolumeToken0": "133348128.834855",
+          "dailyVolumeToken1": "49714.729022752889720817",
+          "dailyVolumeUSD": "133111997.866763055084044439617479",
+          "date": 1622764800,
+          "reserveUSD": "268270386.487673374258938455117028",
+          "token0": {
+            "name": "USD//C",
+            "totalLiquidity": "293699483.813838"
+          },
+          "token1": {
+            "name": "Wrapped Ether",
+            "totalLiquidity": "746214.985446349950579597"
+          },
+          "totalSupply": "1.568199178445758148"
+        },
+        {
+          "dailyVolumeToken0": "70434756.292272",
+          "dailyVolumeToken1": "26439.664209543826226501",
+          "dailyVolumeUSD": "70430211.40599714251640130501189879",
+          "date": 1622851200,
+          "reserveUSD": "271525491.3186624701167431999705311",
+          "token0": {
+            "name": "USD//C",
+            "totalLiquidity": "293699483.813838"
+          },
+          "token1": {
+            "name": "Wrapped Ether",
+            "totalLiquidity": "746214.985446349950579597"
+          },
+          "totalSupply": "1.605878965080894726"
+        },
+        {
+          "dailyVolumeToken0": "30012112.257461",
+          "dailyVolumeToken1": "11153.579374573572026139",
+          "dailyVolumeUSD": "30001421.43282079594209881726369424",
+          "date": 1622937600,
+          "reserveUSD": "279155694.3125273298937501614081777",
+          "token0": {
+            "name": "USD//C",
+            "totalLiquidity": "293699483.813838"
+          },
+          "token1": {
+            "name": "Wrapped Ether",
+            "totalLiquidity": "746214.985446349950579597"
+          },
+          "totalSupply": "1.626023282565305116"
+        },
+        {
+          "dailyVolumeToken0": "65319211.089277",
+          "dailyVolumeToken1": "24108.381527964382933634",
+          "dailyVolumeUSD": "65300080.13251171428843899867205628",
+          "date": 1623024000,
+          "reserveUSD": "265952826.4956240485088510409632437",
+          "token0": {
+            "name": "USD//C",
+            "totalLiquidity": "293699483.813838"
+          },
+          "token1": {
+            "name": "Wrapped Ether",
+            "totalLiquidity": "746214.985446349950579597"
+          },
+          "totalSupply": "1.583991057132313197"
+        },
+        {
+          "dailyVolumeToken0": "94475244.648202",
+          "dailyVolumeToken1": "38249.534269431040601288",
+          "dailyVolumeUSD": "94466623.38244220766101524043004933",
+          "date": 1623110400,
+          "reserveUSD": "256737164.0359917588053477792757998",
+          "token0": {
+            "name": "USD//C",
+            "totalLiquidity": "293699483.813838"
+          },
+          "token1": {
+            "name": "Wrapped Ether",
+            "totalLiquidity": "746214.985446349950579597"
+          },
+          "totalSupply": "1.548319207136991424"
+        },
+        {
+          "dailyVolumeToken0": "62728955.107474",
+          "dailyVolumeToken1": "24833.782310728487187616",
+          "dailyVolumeUSD": "62703580.60654353851946503927385611",
+          "date": 1623196800,
+          "reserveUSD": "261961685.819674161625596159397775",
+          "token0": {
+            "name": "USD//C",
+            "totalLiquidity": "293699483.813838"
+          },
+          "token1": {
+            "name": "Wrapped Ether",
+            "totalLiquidity": "746214.985446349950579597"
+          },
+          "totalSupply": "1.550576312984053602"
+        },
+        {
+          "dailyVolumeToken0": "41878866.389629",
+          "dailyVolumeToken1": "16653.223291964204230568",
+          "dailyVolumeUSD": "41892151.2229636637528565618135587",
+          "date": 1623283200,
+          "reserveUSD": "241055762.1707652937194083735463833",
+          "token0": {
+            "name": "USD//C",
+            "totalLiquidity": "293699483.813838"
+          },
+          "token1": {
+            "name": "Wrapped Ether",
+            "totalLiquidity": "746214.985446349950579597"
+          },
+          "totalSupply": "1.465008815868012737"
+        },
+        {
+          "dailyVolumeToken0": "51139638.549518",
+          "dailyVolumeToken1": "21208.576957590847936672",
+          "dailyVolumeUSD": "51150363.86369283259570299697961945",
+          "date": 1623369600,
+          "reserveUSD": "236954809.9757464567476326594177697",
+          "token0": {
+            "name": "USD//C",
+            "totalLiquidity": "293699483.813838"
+          },
+          "token1": {
+            "name": "Wrapped Ether",
+            "totalLiquidity": "746214.985446349950579597"
+          },
+          "totalSupply": "1.475261855153064846"
+        },
+        {
+          "dailyVolumeToken0": "43515364.154926",
+          "dailyVolumeToken1": "18487.142689513348316793",
+          "dailyVolumeUSD": "43515004.75030816525150053481217807",
+          "date": 1623456000,
+          "reserveUSD": "236377865.8398498427122239548013345",
+          "token0": {
+            "name": "USD//C",
+            "totalLiquidity": "293699483.813838"
+          },
+          "token1": {
+            "name": "Wrapped Ether",
+            "totalLiquidity": "746214.985446349950579597"
+          },
+          "totalSupply": "1.463694041158634081"
+        },
+        {
+          "dailyVolumeToken0": "34402775.252558",
+          "dailyVolumeToken1": "14243.197288613365057385",
+          "dailyVolumeUSD": "34387645.30186893620663507852010521",
+          "date": 1623542400,
+          "reserveUSD": "254193062.4170580669404780016649931",
+          "token0": {
+            "name": "USD//C",
+            "totalLiquidity": "293699483.813838"
+          },
+          "token1": {
+            "name": "Wrapped Ether",
+            "totalLiquidity": "746214.985446349950579597"
+          },
+          "totalSupply": "1.530967645944941596"
+        },
+        {
+          "dailyVolumeToken0": "50449028.456653",
+          "dailyVolumeToken1": "19842.400470341291324561",
+          "dailyVolumeUSD": "50457140.35800281574827869399124828",
+          "date": 1623628800,
+          "reserveUSD": "254902265.0197891256725480767902688",
+          "token0": {
+            "name": "USD//C",
+            "totalLiquidity": "293699483.813838"
+          },
+          "token1": {
+            "name": "Wrapped Ether",
+            "totalLiquidity": "746214.985446349950579597"
+          },
+          "totalSupply": "1.513203733447072602"
+        },
+        {
+          "dailyVolumeToken0": "32528185.570597",
+          "dailyVolumeToken1": "12621.305221632496685979",
+          "dailyVolumeUSD": "32528029.96282676552240316618445187",
+          "date": 1623715200,
+          "reserveUSD": "252654602.5400119005851813698810162",
+          "token0": {
+            "name": "USD//C",
+            "totalLiquidity": "293699483.813838"
+          },
+          "token1": {
+            "name": "Wrapped Ether",
+            "totalLiquidity": "746214.985446349950579597"
+          },
+          "totalSupply": "1.506083171251672164"
+        },
+        {
+          "dailyVolumeToken0": "39002877.3617",
+          "dailyVolumeToken1": "15955.174354102513301562",
+          "dailyVolumeUSD": "39028285.79742241936665936788327771",
+          "date": 1623801600,
+          "reserveUSD": "237768568.6902638390042293861181469",
+          "token0": {
+            "name": "USD//C",
+            "totalLiquidity": "293699483.813838"
+          },
+          "token1": {
+            "name": "Wrapped Ether",
+            "totalLiquidity": "746214.985446349950579597"
+          },
+          "totalSupply": "1.47351197722670063"
+        },
+        {
+          "dailyVolumeToken0": "29935871.479116",
+          "dailyVolumeToken1": "12567.105462980044858434",
+          "dailyVolumeUSD": "29937177.39625013618818876244478822",
+          "date": 1623888000,
+          "reserveUSD": "237553156.9413045799503672102514352",
+          "token0": {
+            "name": "USD//C",
+            "totalLiquidity": "293699483.813838"
+          },
+          "token1": {
+            "name": "Wrapped Ether",
+            "totalLiquidity": "746214.985446349950579597"
+          },
+          "totalSupply": "1.467791426733806148"
+        },
+        {
+          "dailyVolumeToken0": "43087186.836777",
+          "dailyVolumeToken1": "19211.551880687516684935",
+          "dailyVolumeUSD": "43089984.23081606443778524890840903",
+          "date": 1623974400,
+          "reserveUSD": "199291381.7202715396258631578723144",
+          "token0": {
+            "name": "USD//C",
+            "totalLiquidity": "293699483.813838"
+          },
+          "token1": {
+            "name": "Wrapped Ether",
+            "totalLiquidity": "746214.985446349950579597"
+          },
+          "totalSupply": "1.2695538376664854"
+        },
+        {
+          "dailyVolumeToken0": "30360976.242673",
+          "dailyVolumeToken1": "13646.346521754668862009",
+          "dailyVolumeUSD": "30360024.27698947524661436798922902",
+          "date": 1624060800,
+          "reserveUSD": "191742676.7502356547452873338505909",
+          "token0": {
+            "name": "USD//C",
+            "totalLiquidity": "293699483.813838"
+          },
+          "token1": {
+            "name": "Wrapped Ether",
+            "totalLiquidity": "746214.985446349950579597"
+          },
+          "totalSupply": "1.237575870056569384"
+        },
+        {
+          "dailyVolumeToken0": "36877786.714297",
+          "dailyVolumeToken1": "17205.480705037728026982",
+          "dailyVolumeUSD": "36862671.96897299585809900775073462",
+          "date": 1624147200,
+          "reserveUSD": "186362518.8658457969494663066577599",
+          "token0": {
+            "name": "USD//C",
+            "totalLiquidity": "293699483.813838"
+          },
+          "token1": {
+            "name": "Wrapped Ether",
+            "totalLiquidity": "746214.985446349950579597"
+          },
+          "totalSupply": "1.183523349707815227"
+        },
+        {
+          "dailyVolumeToken0": "113393248.436328",
+          "dailyVolumeToken1": "57131.639670927042386757",
+          "dailyVolumeUSD": "113510976.5751089399415504109601688",
+          "date": 1624233600,
+          "reserveUSD": "171030264.6916435357650771194302645",
+          "token0": {
+            "name": "USD//C",
+            "totalLiquidity": "293699483.813838"
+          },
+          "token1": {
+            "name": "Wrapped Ether",
+            "totalLiquidity": "746214.985446349950579597"
+          },
+          "totalSupply": "1.17952154402064663"
+        },
+        {
+          "dailyVolumeToken0": "106458434.813247",
+          "dailyVolumeToken1": "57404.69947619076972476",
+          "dailyVolumeUSD": "106479803.3571279509570023341802757",
+          "date": 1624320000,
+          "reserveUSD": "197743821.344843847958270470494333",
+          "token0": {
+            "name": "USD//C",
+            "totalLiquidity": "293699483.813838"
+          },
+          "token1": {
+            "name": "Wrapped Ether",
+            "totalLiquidity": "746214.985446349950579597"
+          },
+          "totalSupply": "1.368262018398581458"
+        },
+        {
+          "dailyVolumeToken0": "51599913.005246",
+          "dailyVolumeToken1": "26167.980305135302778411",
+          "dailyVolumeUSD": "51584038.8266800551060199625268109",
+          "date": 1624406400,
+          "reserveUSD": "205828683.0769717530397077818329773",
+          "token0": {
+            "name": "USD//C",
+            "totalLiquidity": "293699483.813838"
+          },
+          "token1": {
+            "name": "Wrapped Ether",
+            "totalLiquidity": "746214.985446349950579597"
+          },
+          "totalSupply": "1.387221702946133249"
+        },
+        {
+          "dailyVolumeToken0": "38022417.449866",
+          "dailyVolumeToken1": "19368.915999645591447035",
+          "dailyVolumeUSD": "38015942.82754200608807599591708651",
+          "date": 1624492800,
+          "reserveUSD": "287783312.7299311042722869513371082",
+          "token0": {
+            "name": "USD//C",
+            "totalLiquidity": "293699483.813838"
+          },
+          "token1": {
+            "name": "Wrapped Ether",
+            "totalLiquidity": "746214.985446349950579597"
+          },
+          "totalSupply": "1.929606783819226819"
+        },
+        {
+          "dailyVolumeToken0": "62928316.575481",
+          "dailyVolumeToken1": "33689.352675755222861634",
+          "dailyVolumeUSD": "62960054.99364928183142257173601278",
+          "date": 1624579200,
+          "reserveUSD": "282486155.307480531668764495906307",
+          "token0": {
+            "name": "USD//C",
+            "totalLiquidity": "293699483.813838"
+          },
+          "token1": {
+            "name": "Wrapped Ether",
+            "totalLiquidity": "746214.985446349950579597"
+          },
+          "totalSupply": "1.980292650790431586"
+        },
+        {
+          "dailyVolumeToken0": "54170762.537337",
+          "dailyVolumeToken1": "30471.381909199080713226",
+          "dailyVolumeUSD": "54166206.47275927761741163094177701",
+          "date": 1624665600,
+          "reserveUSD": "279835517.4673612721141108216902019",
+          "token0": {
+            "name": "USD//C",
+            "totalLiquidity": "293699483.813838"
+          },
+          "token1": {
+            "name": "Wrapped Ether",
+            "totalLiquidity": "746214.985446349950579597"
+          },
+          "totalSupply": "1.95598088014524858"
+        },
+        {
+          "dailyVolumeToken0": "37501702.898266",
+          "dailyVolumeToken1": "20120.690159859287907816",
+          "dailyVolumeUSD": "37484160.72554745979137194228166995",
+          "date": 1624752000,
+          "reserveUSD": "269342578.4253019915283073505304026",
+          "token0": {
+            "name": "USD//C",
+            "totalLiquidity": "293699483.813838"
+          },
+          "token1": {
+            "name": "Wrapped Ether",
+            "totalLiquidity": "746214.985446349950579597"
+          },
+          "totalSupply": "1.808964916790267879"
+        },
+        {
+          "dailyVolumeToken0": "47239350.340205",
+          "dailyVolumeToken1": "23011.741286987272473126",
+          "dailyVolumeUSD": "47242038.56784488900277183952576362",
+          "date": 1624838400,
+          "reserveUSD": "277179750.3671114027870441467275985",
+          "token0": {
+            "name": "USD//C",
+            "totalLiquidity": "293699483.813838"
+          },
+          "token1": {
+            "name": "Wrapped Ether",
+            "totalLiquidity": "746214.985446349950579597"
+          },
+          "totalSupply": "1.814680469985880147"
+        },
+        {
+          "dailyVolumeToken0": "46284706.890847",
+          "dailyVolumeToken1": "21435.31225957795666033",
+          "dailyVolumeUSD": "46309960.5990801112532062195900047",
+          "date": 1624924800,
+          "reserveUSD": "302702602.7343357987163194032866905",
+          "token0": {
+            "name": "USD//C",
+            "totalLiquidity": "293699483.813838"
+          },
+          "token1": {
+            "name": "Wrapped Ether",
+            "totalLiquidity": "746214.985446349950579597"
+          },
+          "totalSupply": "1.94184667405641364"
+        },
+        {
+          "dailyVolumeToken0": "44950088.525654",
+          "dailyVolumeToken1": "20728.951315643999622288",
+          "dailyVolumeUSD": "44933127.016198423243565344645914",
+          "date": 1625011200,
+          "reserveUSD": "309949411.7073408307621472225405002",
+          "token0": {
+            "name": "USD//C",
+            "totalLiquidity": "293699483.813838"
+          },
+          "token1": {
+            "name": "Wrapped Ether",
+            "totalLiquidity": "746214.985446349950579597"
+          },
+          "totalSupply": "1.937506637498651603"
+        },
+        {
+          "dailyVolumeToken0": "45192548.264075",
+          "dailyVolumeToken1": "21127.292732907443906824",
+          "dailyVolumeUSD": "45201430.53535523820703986726107467",
+          "date": 1625097600,
+          "reserveUSD": "319528514.7080242954586407290977337",
+          "token0": {
+            "name": "USD//C",
+            "totalLiquidity": "293699483.813838"
+          },
+          "token1": {
+            "name": "Wrapped Ether",
+            "totalLiquidity": "746214.985446349950579597"
+          },
+          "totalSupply": "2.07043089415982011"
+        },
+        {
+          "dailyVolumeToken0": "35704377.420591",
+          "dailyVolumeToken1": "17195.611191837951469114",
+          "dailyVolumeUSD": "35705456.80114538665232203466771226",
+          "date": 1625184000,
+          "reserveUSD": "320752127.7838758996811201543866951",
+          "token0": {
+            "name": "USD//C",
+            "totalLiquidity": "293699483.813838"
+          },
+          "token1": {
+            "name": "Wrapped Ether",
+            "totalLiquidity": "746214.985446349950579597"
+          },
+          "totalSupply": "2.060675167276101857"
+        },
+        {
+          "dailyVolumeToken0": "24536018.765944",
+          "dailyVolumeToken1": "11182.951392477922729359",
+          "dailyVolumeUSD": "24526496.41826585411166168383559108",
+          "date": 1625270400,
+          "reserveUSD": "302457398.8859146058480746070739788",
+          "token0": {
+            "name": "USD//C",
+            "totalLiquidity": "293699483.813838"
+          },
+          "token1": {
+            "name": "Wrapped Ether",
+            "totalLiquidity": "746214.985446349950579597"
+          },
+          "totalSupply": "1.909094940656505845"
+        },
+        {
+          "dailyVolumeToken0": "26022100.813256",
+          "dailyVolumeToken1": "11264.394243777241666958",
+          "dailyVolumeUSD": "26006708.85261239454066230921021246",
+          "date": 1625356800,
+          "reserveUSD": "307196200.4857369497225028649151279",
+          "token0": {
+            "name": "USD//C",
+            "totalLiquidity": "293699483.813838"
+          },
+          "token1": {
+            "name": "Wrapped Ether",
+            "totalLiquidity": "746214.985446349950579597"
+          },
+          "totalSupply": "1.895686649626271582"
+        },
+        {
+          "dailyVolumeToken0": "42142134.171762",
+          "dailyVolumeToken1": "18809.758054121479071083",
+          "dailyVolumeUSD": "42153742.29843141621290063617069442",
+          "date": 1625443200,
+          "reserveUSD": "323198270.8655651984805478648326369",
+          "token0": {
+            "name": "USD//C",
+            "totalLiquidity": "293699483.813838"
+          },
+          "token1": {
+            "name": "Wrapped Ether",
+            "totalLiquidity": "746214.985446349950579597"
+          },
+          "totalSupply": "2.048397142290089252"
+        },
+        {
+          "dailyVolumeToken0": "35813369.421531",
+          "dailyVolumeToken1": "15630.625814998871259478",
+          "dailyVolumeUSD": "35804228.66992150217222867462571086",
+          "date": 1625529600,
+          "reserveUSD": "332730746.9547433238662824833892735",
+          "token0": {
+            "name": "USD//C",
+            "totalLiquidity": "293699483.813838"
+          },
+          "token1": {
+            "name": "Wrapped Ether",
+            "totalLiquidity": "746214.985446349950579597"
+          },
+          "totalSupply": "2.053612716791385207"
+        },
+        {
+          "dailyVolumeToken0": "28444374.141659",
+          "dailyVolumeToken1": "12070.233403188276056531",
+          "dailyVolumeUSD": "28437451.79784701364530287004788253",
+          "date": 1625616000,
+          "reserveUSD": "327957261.5494439411757054190922737",
+          "token0": {
+            "name": "USD//C",
+            "totalLiquidity": "293699483.813838"
+          },
+          "token1": {
+            "name": "Wrapped Ether",
+            "totalLiquidity": "746214.985446349950579597"
+          },
+          "totalSupply": "2.025531515478301836"
+        },
+        {
+          "dailyVolumeToken0": "41453594.337936",
+          "dailyVolumeToken1": "18935.561938379928807342",
+          "dailyVolumeUSD": "41468932.47171389024398711155222051",
+          "date": 1625702400,
+          "reserveUSD": "292766886.0884907826597698124064273",
+          "token0": {
+            "name": "USD//C",
+            "totalLiquidity": "293699483.813838"
+          },
+          "token1": {
+            "name": "Wrapped Ether",
+            "totalLiquidity": "746214.985446349950579597"
+          },
+          "totalSupply": "1.889877760739000679"
+        },
+        {
+          "dailyVolumeToken0": "34056578.688852",
+          "dailyVolumeToken1": "16078.81443730885516165",
+          "dailyVolumeUSD": "34051904.98845787962605336564949896",
+          "date": 1625788800,
+          "reserveUSD": "295143573.9869083557943662224454983",
+          "token0": {
+            "name": "USD//C",
+            "totalLiquidity": "293699483.813838"
+          },
+          "token1": {
+            "name": "Wrapped Ether",
+            "totalLiquidity": "746214.985446349950579597"
+          },
+          "totalSupply": "1.889813044973927077"
+        },
+        {
+          "dailyVolumeToken0": "26035447.503465",
+          "dailyVolumeToken1": "12286.274875056883994051",
+          "dailyVolumeUSD": "26035757.66873181001745488682621161",
+          "date": 1625875200,
+          "reserveUSD": "291722181.1616799825755079199811336",
+          "token0": {
+            "name": "USD//C",
+            "totalLiquidity": "293699483.813838"
+          },
+          "token1": {
+            "name": "Wrapped Ether",
+            "totalLiquidity": "746214.985446349950579597"
+          },
+          "totalSupply": "1.884382760129198479"
+        },
+        {
+          "dailyVolumeToken0": "17075664.23594",
+          "dailyVolumeToken1": "8034.823608179454817536",
+          "dailyVolumeUSD": "17073526.45472796212852017520461891",
+          "date": 1625961600,
+          "reserveUSD": "292434721.351672699989668467700963",
+          "token0": {
+            "name": "USD//C",
+            "totalLiquidity": "293699483.813838"
+          },
+          "token1": {
+            "name": "Wrapped Ether",
+            "totalLiquidity": "746214.985446349950579597"
+          },
+          "totalSupply": "1.877365841757243477"
+        },
+        {
+          "dailyVolumeToken0": "22827316.106272",
+          "dailyVolumeToken1": "11020.481621497453767117",
+          "dailyVolumeUSD": "22843899.31032145291746564240366739",
+          "date": 1626048000,
+          "reserveUSD": "266999906.5711549013626980740831812",
+          "token0": {
+            "name": "USD//C",
+            "totalLiquidity": "293699483.813838"
+          },
+          "token1": {
+            "name": "Wrapped Ether",
+            "totalLiquidity": "746214.985446349950579597"
+          },
+          "totalSupply": "1.756688578401912455"
+        },
+        {
+          "dailyVolumeToken0": "35839092.544664",
+          "dailyVolumeToken1": "18393.642694380003213442",
+          "dailyVolumeUSD": "36138928.46225729517005166390171146",
+          "date": 1626134400,
+          "reserveUSD": "257846663.446060332253298408847216",
+          "token0": {
+            "name": "USD//C",
+            "totalLiquidity": "293699483.813838"
+          },
+          "token1": {
+            "name": "Wrapped Ether",
+            "totalLiquidity": "746214.985446349950579597"
+          },
+          "totalSupply": "1.738054478550807367"
+        },
+        {
+          "dailyVolumeToken0": "42247211.449922",
+          "dailyVolumeToken1": "21821.911210532908820711",
+          "dailyVolumeUSD": "42234725.26440971493644088458591696",
+          "date": 1626220800,
+          "reserveUSD": "261258331.6806053819631031105349353",
+          "token0": {
+            "name": "USD//C",
+            "totalLiquidity": "293699483.813838"
+          },
+          "token1": {
+            "name": "Wrapped Ether",
+            "totalLiquidity": "746214.985446349950579597"
+          },
+          "totalSupply": "1.736575552951108315"
+        },
+        {
+          "dailyVolumeToken0": "38142203.312839",
+          "dailyVolumeToken1": "19663.301283526136977367",
+          "dailyVolumeUSD": "38144231.78067858973853578201211076",
+          "date": 1626307200,
+          "reserveUSD": "281559803.2338654692795195548218173",
+          "token0": {
+            "name": "USD//C",
+            "totalLiquidity": "293699483.813838"
+          },
+          "token1": {
+            "name": "Wrapped Ether",
+            "totalLiquidity": "746214.985446349950579597"
+          },
+          "totalSupply": "1.906452327017167097"
+        }
+      ]

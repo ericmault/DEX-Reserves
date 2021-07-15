@@ -7,3 +7,9 @@ Remember to remove this part from the top of the Graph output and the correspond
 {
     "data": {
       "pairDayDatas": 
+
+# good resources 
+
+https://uniswap.org/docs/v2/API/queries/
+
+https://www.epochconverter.com/
