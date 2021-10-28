@@ -1,0 +1,3302 @@
+[
+        {
+          "date": 1609545600,
+          "reserve0": "74242441.170855",
+          "reserve1": "95649.633857156044263127",
+          "token0": {
+            "name": "USD//C"
+          },
+          "token1": {
+            "name": "Wrapped Ether"
+          }
+        },
+        {
+          "date": 1609632000,
+          "reserve0": "81874996.162872",
+          "reserve1": "83736.966410609312342016",
+          "token0": {
+            "name": "USD//C"
+          },
+          "token1": {
+            "name": "Wrapped Ether"
+          }
+        },
+        {
+          "date": 1609718400,
+          "reserve0": "101508029.183392",
+          "reserve1": "97501.699407595696019716",
+          "token0": {
+            "name": "USD//C"
+          },
+          "token1": {
+            "name": "Wrapped Ether"
+          }
+        },
+        {
+          "date": 1609804800,
+          "reserve0": "107112484.913049",
+          "reserve1": "96967.739780865723335466",
+          "token0": {
+            "name": "USD//C"
+          },
+          "token1": {
+            "name": "Wrapped Ether"
+          }
+        },
+        {
+          "date": 1609891200,
+          "reserve0": "113042130.650322",
+          "reserve1": "93402.643438810046023733",
+          "token0": {
+            "name": "USD//C"
+          },
+          "token1": {
+            "name": "Wrapped Ether"
+          }
+        },
+        {
+          "date": 1609977600,
+          "reserve0": "116476204.896108",
+          "reserve1": "95371.982809325067923549",
+          "token0": {
+            "name": "USD//C"
+          },
+          "token1": {
+            "name": "Wrapped Ether"
+          }
+        },
+        {
+          "date": 1610064000,
+          "reserve0": "116668272.771424",
+          "reserve1": "95718.32558648652442122",
+          "token0": {
+            "name": "USD//C"
+          },
+          "token1": {
+            "name": "Wrapped Ether"
+          }
+        },
+        {
+          "date": 1610150400,
+          "reserve0": "116981782.654613",
+          "reserve1": "91041.413369525688121794",
+          "token0": {
+            "name": "USD//C"
+          },
+          "token1": {
+            "name": "Wrapped Ether"
+          }
+        },
+        {
+          "date": 1610236800,
+          "reserve0": "115833157.968866",
+          "reserve1": "92050.303036558835740076",
+          "token0": {
+            "name": "USD//C"
+          },
+          "token1": {
+            "name": "Wrapped Ether"
+          }
+        },
+        {
+          "date": 1610323200,
+          "reserve0": "110555180.730886",
+          "reserve1": "101511.341825627069963023",
+          "token0": {
+            "name": "USD//C"
+          },
+          "token1": {
+            "name": "Wrapped Ether"
+          }
+        },
+        {
+          "date": 1610409600,
+          "reserve0": "110842016.80642",
+          "reserve1": "106061.491828268363324571",
+          "token0": {
+            "name": "USD//C"
+          },
+          "token1": {
+            "name": "Wrapped Ether"
+          }
+        },
+        {
+          "date": 1610496000,
+          "reserve0": "117105654.635622",
+          "reserve1": "103745.475630828487305035",
+          "token0": {
+            "name": "USD//C"
+          },
+          "token1": {
+            "name": "Wrapped Ether"
+          }
+        },
+        {
+          "date": 1610582400,
+          "reserve0": "123015904.636944",
+          "reserve1": "100338.242788808056574451",
+          "token0": {
+            "name": "USD//C"
+          },
+          "token1": {
+            "name": "Wrapped Ether"
+          }
+        },
+        {
+          "date": 1610668800,
+          "reserve0": "124464540.456811",
+          "reserve1": "106385.798593177105270668",
+          "token0": {
+            "name": "USD//C"
+          },
+          "token1": {
+            "name": "Wrapped Ether"
+          }
+        },
+        {
+          "date": 1610755200,
+          "reserve0": "132031832.64064",
+          "reserve1": "107102.706121335393172793",
+          "token0": {
+            "name": "USD//C"
+          },
+          "token1": {
+            "name": "Wrapped Ether"
+          }
+        },
+        {
+          "date": 1610841600,
+          "reserve0": "132419137.192827",
+          "reserve1": "107628.205941961721568845",
+          "token0": {
+            "name": "USD//C"
+          },
+          "token1": {
+            "name": "Wrapped Ether"
+          }
+        },
+        {
+          "date": 1610928000,
+          "reserve0": "134570069.52821",
+          "reserve1": "107151.326633264860846853",
+          "token0": {
+            "name": "USD//C"
+          },
+          "token1": {
+            "name": "Wrapped Ether"
+          }
+        },
+        {
+          "date": 1611014400,
+          "reserve0": "128592100.660624",
+          "reserve1": "93562.671221736183192346",
+          "token0": {
+            "name": "USD//C"
+          },
+          "token1": {
+            "name": "Wrapped Ether"
+          }
+        },
+        {
+          "date": 1611100800,
+          "reserve0": "129377405.845579",
+          "reserve1": "93755.839384647962913908",
+          "token0": {
+            "name": "USD//C"
+          },
+          "token1": {
+            "name": "Wrapped Ether"
+          }
+        },
+        {
+          "date": 1611187200,
+          "reserve0": "113114823.349806",
+          "reserve1": "101279.312509861578839876",
+          "token0": {
+            "name": "USD//C"
+          },
+          "token1": {
+            "name": "Wrapped Ether"
+          }
+        },
+        {
+          "date": 1611273600,
+          "reserve0": "134852591.71758",
+          "reserve1": "109057.482291282807566961",
+          "token0": {
+            "name": "USD//C"
+          },
+          "token1": {
+            "name": "Wrapped Ether"
+          }
+        },
+        {
+          "date": 1611360000,
+          "reserve0": "142021554.032232",
+          "reserve1": "115436.093795808257859349",
+          "token0": {
+            "name": "USD//C"
+          },
+          "token1": {
+            "name": "Wrapped Ether"
+          }
+        },
+        {
+          "date": 1611446400,
+          "reserve0": "152339112.699035",
+          "reserve1": "109203.875272743211868006",
+          "token0": {
+            "name": "USD//C"
+          },
+          "token1": {
+            "name": "Wrapped Ether"
+          }
+        },
+        {
+          "date": 1611532800,
+          "reserve0": "148163255.946146",
+          "reserve1": "112281.706638510649077391",
+          "token0": {
+            "name": "USD//C"
+          },
+          "token1": {
+            "name": "Wrapped Ether"
+          }
+        },
+        {
+          "date": 1611619200,
+          "reserve0": "155567216.819152",
+          "reserve1": "114179.239090186756944181",
+          "token0": {
+            "name": "USD//C"
+          },
+          "token1": {
+            "name": "Wrapped Ether"
+          }
+        },
+        {
+          "date": 1611705600,
+          "reserve0": "150027590.81972",
+          "reserve1": "120485.295279283731305216",
+          "token0": {
+            "name": "USD//C"
+          },
+          "token1": {
+            "name": "Wrapped Ether"
+          }
+        },
+        {
+          "date": 1611792000,
+          "reserve0": "154044062.814131",
+          "reserve1": "115477.069759409012004876",
+          "token0": {
+            "name": "USD//C"
+          },
+          "token1": {
+            "name": "Wrapped Ether"
+          }
+        },
+        {
+          "date": 1611878400,
+          "reserve0": "156023969.399294",
+          "reserve1": "112610.243732940406858197",
+          "token0": {
+            "name": "USD//C"
+          },
+          "token1": {
+            "name": "Wrapped Ether"
+          }
+        },
+        {
+          "date": 1611964800,
+          "reserve0": "151113074.075301",
+          "reserve1": "109727.625113407137617641",
+          "token0": {
+            "name": "USD//C"
+          },
+          "token1": {
+            "name": "Wrapped Ether"
+          }
+        },
+        {
+          "date": 1612051200,
+          "reserve0": "144974837.636682",
+          "reserve1": "110593.890148029362646096",
+          "token0": {
+            "name": "USD//C"
+          },
+          "token1": {
+            "name": "Wrapped Ether"
+          }
+        },
+        {
+          "date": 1612137600,
+          "reserve0": "147899140.213595",
+          "reserve1": "107961.044403895424330245",
+          "token0": {
+            "name": "USD//C"
+          },
+          "token1": {
+            "name": "Wrapped Ether"
+          }
+        },
+        {
+          "date": 1612224000,
+          "reserve0": "149326837.202563",
+          "reserve1": "98502.9826004378037454",
+          "token0": {
+            "name": "USD//C"
+          },
+          "token1": {
+            "name": "Wrapped Ether"
+          }
+        },
+        {
+          "date": 1612310400,
+          "reserve0": "157592578.97921",
+          "reserve1": "94547.446828334836475832",
+          "token0": {
+            "name": "USD//C"
+          },
+          "token1": {
+            "name": "Wrapped Ether"
+          }
+        },
+        {
+          "date": 1612396800,
+          "reserve0": "151052491.018157",
+          "reserve1": "94735.714955958854995371",
+          "token0": {
+            "name": "USD//C"
+          },
+          "token1": {
+            "name": "Wrapped Ether"
+          }
+        },
+        {
+          "date": 1612483200,
+          "reserve0": "157294602.042085",
+          "reserve1": "91557.271649500324254443",
+          "token0": {
+            "name": "USD//C"
+          },
+          "token1": {
+            "name": "Wrapped Ether"
+          }
+        },
+        {
+          "date": 1612569600,
+          "reserve0": "146450971.327683",
+          "reserve1": "87047.267145328229263728",
+          "token0": {
+            "name": "USD//C"
+          },
+          "token1": {
+            "name": "Wrapped Ether"
+          }
+        },
+        {
+          "date": 1612656000,
+          "reserve0": "140925700.064181",
+          "reserve1": "86969.425977686486496418",
+          "token0": {
+            "name": "USD//C"
+          },
+          "token1": {
+            "name": "Wrapped Ether"
+          }
+        },
+        {
+          "date": 1612742400,
+          "reserve0": "149093824.809254",
+          "reserve1": "85360.915446717840171237",
+          "token0": {
+            "name": "USD//C"
+          },
+          "token1": {
+            "name": "Wrapped Ether"
+          }
+        },
+        {
+          "date": 1612828800,
+          "reserve0": "151006845.911608",
+          "reserve1": "85280.663120364826054692",
+          "token0": {
+            "name": "USD//C"
+          },
+          "token1": {
+            "name": "Wrapped Ether"
+          }
+        },
+        {
+          "date": 1612915200,
+          "reserve0": "151392506.649866",
+          "reserve1": "86627.78587197138759445",
+          "token0": {
+            "name": "USD//C"
+          },
+          "token1": {
+            "name": "Wrapped Ether"
+          }
+        },
+        {
+          "date": 1613001600,
+          "reserve0": "156286849.957866",
+          "reserve1": "87611.310257922064629429",
+          "token0": {
+            "name": "USD//C"
+          },
+          "token1": {
+            "name": "Wrapped Ether"
+          }
+        },
+        {
+          "date": 1613088000,
+          "reserve0": "159189278.752092",
+          "reserve1": "86518.61096842453144772",
+          "token0": {
+            "name": "USD//C"
+          },
+          "token1": {
+            "name": "Wrapped Ether"
+          }
+        },
+        {
+          "date": 1613174400,
+          "reserve0": "158590536.598589",
+          "reserve1": "87473.913268632234348923",
+          "token0": {
+            "name": "USD//C"
+          },
+          "token1": {
+            "name": "Wrapped Ether"
+          }
+        },
+        {
+          "date": 1613260800,
+          "reserve0": "174572361.135396",
+          "reserve1": "96482.419161817418734164",
+          "token0": {
+            "name": "USD//C"
+          },
+          "token1": {
+            "name": "Wrapped Ether"
+          }
+        },
+        {
+          "date": 1613347200,
+          "reserve0": "172860585.996879",
+          "reserve1": "97371.196788338776095758",
+          "token0": {
+            "name": "USD//C"
+          },
+          "token1": {
+            "name": "Wrapped Ether"
+          }
+        },
+        {
+          "date": 1613433600,
+          "reserve0": "172805170.792641",
+          "reserve1": "97184.56819699057044732",
+          "token0": {
+            "name": "USD//C"
+          },
+          "token1": {
+            "name": "Wrapped Ether"
+          }
+        },
+        {
+          "date": 1613520000,
+          "reserve0": "176836132.29677",
+          "reserve1": "95863.156278516968816159",
+          "token0": {
+            "name": "USD//C"
+          },
+          "token1": {
+            "name": "Wrapped Ether"
+          }
+        },
+        {
+          "date": 1613606400,
+          "reserve0": "180585138.960793",
+          "reserve1": "93448.40063047583897738",
+          "token0": {
+            "name": "USD//C"
+          },
+          "token1": {
+            "name": "Wrapped Ether"
+          }
+        },
+        {
+          "date": 1613692800,
+          "reserve0": "181123664.118614",
+          "reserve1": "92666.710744685261365263",
+          "token0": {
+            "name": "USD//C"
+          },
+          "token1": {
+            "name": "Wrapped Ether"
+          }
+        },
+        {
+          "date": 1613779200,
+          "reserve0": "178962292.853789",
+          "reserve1": "93379.522903636031975498",
+          "token0": {
+            "name": "USD//C"
+          },
+          "token1": {
+            "name": "Wrapped Ether"
+          }
+        },
+        {
+          "date": 1613865600,
+          "reserve0": "168378831.518901",
+          "reserve1": "87328.595387314857593861",
+          "token0": {
+            "name": "USD//C"
+          },
+          "token1": {
+            "name": "Wrapped Ether"
+          }
+        },
+        {
+          "date": 1613952000,
+          "reserve0": "111231006.947078",
+          "reserve1": "62525.188779350094953238",
+          "token0": {
+            "name": "USD//C"
+          },
+          "token1": {
+            "name": "Wrapped Ether"
+          }
+        },
+        {
+          "date": 1614038400,
+          "reserve0": "103497692.124182",
+          "reserve1": "65807.567487935530318232",
+          "token0": {
+            "name": "USD//C"
+          },
+          "token1": {
+            "name": "Wrapped Ether"
+          }
+        },
+        {
+          "date": 1614124800,
+          "reserve0": "107334013.05821",
+          "reserve1": "66222.752818543946443905",
+          "token0": {
+            "name": "USD//C"
+          },
+          "token1": {
+            "name": "Wrapped Ether"
+          }
+        },
+        {
+          "date": 1614211200,
+          "reserve0": "103172990.579272",
+          "reserve1": "69737.510139648902213301",
+          "token0": {
+            "name": "USD//C"
+          },
+          "token1": {
+            "name": "Wrapped Ether"
+          }
+        },
+        {
+          "date": 1614297600,
+          "reserve0": "75022369.995455",
+          "reserve1": "52072.026528555164699499",
+          "token0": {
+            "name": "USD//C"
+          },
+          "token1": {
+            "name": "Wrapped Ether"
+          }
+        },
+        {
+          "date": 1614384000,
+          "reserve0": "83754472.456948",
+          "reserve1": "57193.995102444510973453",
+          "token0": {
+            "name": "USD//C"
+          },
+          "token1": {
+            "name": "Wrapped Ether"
+          }
+        },
+        {
+          "date": 1614470400,
+          "reserve0": "123016968.606037",
+          "reserve1": "86604.252909048910540884",
+          "token0": {
+            "name": "USD//C"
+          },
+          "token1": {
+            "name": "Wrapped Ether"
+          }
+        },
+        {
+          "date": 1614556800,
+          "reserve0": "134541910.94116",
+          "reserve1": "85850.373587079258595241",
+          "token0": {
+            "name": "USD//C"
+          },
+          "token1": {
+            "name": "Wrapped Ether"
+          }
+        },
+        {
+          "date": 1614643200,
+          "reserve0": "119432483.335606",
+          "reserve1": "80050.845066496958081164",
+          "token0": {
+            "name": "USD//C"
+          },
+          "token1": {
+            "name": "Wrapped Ether"
+          }
+        },
+        {
+          "date": 1614729600,
+          "reserve0": "118757261.113126",
+          "reserve1": "75452.144868843426862091",
+          "token0": {
+            "name": "USD//C"
+          },
+          "token1": {
+            "name": "Wrapped Ether"
+          }
+        },
+        {
+          "date": 1614816000,
+          "reserve0": "118364047.616349",
+          "reserve1": "77257.274543429091914046",
+          "token0": {
+            "name": "USD//C"
+          },
+          "token1": {
+            "name": "Wrapped Ether"
+          }
+        },
+        {
+          "date": 1614902400,
+          "reserve0": "119119697.683926",
+          "reserve1": "77760.123680602437313368",
+          "token0": {
+            "name": "USD//C"
+          },
+          "token1": {
+            "name": "Wrapped Ether"
+          }
+        },
+        {
+          "date": 1614988800,
+          "reserve0": "125969256.327414",
+          "reserve1": "76191.439332735428243639",
+          "token0": {
+            "name": "USD//C"
+          },
+          "token1": {
+            "name": "Wrapped Ether"
+          }
+        },
+        {
+          "date": 1615075200,
+          "reserve0": "128810737.632048",
+          "reserve1": "74542.308539447994884654",
+          "token0": {
+            "name": "USD//C"
+          },
+          "token1": {
+            "name": "Wrapped Ether"
+          }
+        },
+        {
+          "date": 1615161600,
+          "reserve0": "134361510.522191",
+          "reserve1": "73320.71944666499935427",
+          "token0": {
+            "name": "USD//C"
+          },
+          "token1": {
+            "name": "Wrapped Ether"
+          }
+        },
+        {
+          "date": 1615248000,
+          "reserve0": "137670797.936186",
+          "reserve1": "73647.572830328980884498",
+          "token0": {
+            "name": "USD//C"
+          },
+          "token1": {
+            "name": "Wrapped Ether"
+          }
+        },
+        {
+          "date": 1615334400,
+          "reserve0": "136369083.654107",
+          "reserve1": "75693.517400770567394444",
+          "token0": {
+            "name": "USD//C"
+          },
+          "token1": {
+            "name": "Wrapped Ether"
+          }
+        },
+        {
+          "date": 1615420800,
+          "reserve0": "137916516.951422",
+          "reserve1": "75707.12706005453245271",
+          "token0": {
+            "name": "USD//C"
+          },
+          "token1": {
+            "name": "Wrapped Ether"
+          }
+        },
+        {
+          "date": 1615507200,
+          "reserve0": "136642283.521858",
+          "reserve1": "77260.445340337182545761",
+          "token0": {
+            "name": "USD//C"
+          },
+          "token1": {
+            "name": "Wrapped Ether"
+          }
+        },
+        {
+          "date": 1615593600,
+          "reserve0": "140766298.265932",
+          "reserve1": "73067.122262839945771426",
+          "token0": {
+            "name": "USD//C"
+          },
+          "token1": {
+            "name": "Wrapped Ether"
+          }
+        },
+        {
+          "date": 1615680000,
+          "reserve0": "139206028.781707",
+          "reserve1": "75188.406181735364823907",
+          "token0": {
+            "name": "USD//C"
+          },
+          "token1": {
+            "name": "Wrapped Ether"
+          }
+        },
+        {
+          "date": 1615766400,
+          "reserve0": "136389158.82252",
+          "reserve1": "76231.822402881634062927",
+          "token0": {
+            "name": "USD//C"
+          },
+          "token1": {
+            "name": "Wrapped Ether"
+          }
+        },
+        {
+          "date": 1615852800,
+          "reserve0": "128111936.408535",
+          "reserve1": "71143.214328805805734775",
+          "token0": {
+            "name": "USD//C"
+          },
+          "token1": {
+            "name": "Wrapped Ether"
+          }
+        },
+        {
+          "date": 1615939200,
+          "reserve0": "128964949.212382",
+          "reserve1": "70836.504890398426137894",
+          "token0": {
+            "name": "USD//C"
+          },
+          "token1": {
+            "name": "Wrapped Ether"
+          }
+        },
+        {
+          "date": 1616025600,
+          "reserve0": "127706000.711186",
+          "reserve1": "71746.3605075782417364",
+          "token0": {
+            "name": "USD//C"
+          },
+          "token1": {
+            "name": "Wrapped Ether"
+          }
+        },
+        {
+          "date": 1616112000,
+          "reserve0": "129990726.484637",
+          "reserve1": "71876.127695505362777643",
+          "token0": {
+            "name": "USD//C"
+          },
+          "token1": {
+            "name": "Wrapped Ether"
+          }
+        },
+        {
+          "date": 1616198400,
+          "reserve0": "130287509.770123",
+          "reserve1": "71967.129459512509838902",
+          "token0": {
+            "name": "USD//C"
+          },
+          "token1": {
+            "name": "Wrapped Ether"
+          }
+        },
+        {
+          "date": 1616284800,
+          "reserve0": "132644582.123956",
+          "reserve1": "74399.363788746239941195",
+          "token0": {
+            "name": "USD//C"
+          },
+          "token1": {
+            "name": "Wrapped Ether"
+          }
+        },
+        {
+          "date": 1616371200,
+          "reserve0": "130772425.884923",
+          "reserve1": "77863.800097266937881849",
+          "token0": {
+            "name": "USD//C"
+          },
+          "token1": {
+            "name": "Wrapped Ether"
+          }
+        },
+        {
+          "date": 1616457600,
+          "reserve0": "116284347.689079",
+          "reserve1": "69803.577666581212719978",
+          "token0": {
+            "name": "USD//C"
+          },
+          "token1": {
+            "name": "Wrapped Ether"
+          }
+        },
+        {
+          "date": 1616544000,
+          "reserve0": "119919515.759973",
+          "reserve1": "75820.522464890706587711",
+          "token0": {
+            "name": "USD//C"
+          },
+          "token1": {
+            "name": "Wrapped Ether"
+          }
+        },
+        {
+          "date": 1616630400,
+          "reserve0": "119055159.949465",
+          "reserve1": "74889.659830885065702979",
+          "token0": {
+            "name": "USD//C"
+          },
+          "token1": {
+            "name": "Wrapped Ether"
+          }
+        },
+        {
+          "date": 1616716800,
+          "reserve0": "126415578.19292",
+          "reserve1": "74406.474352503672324764",
+          "token0": {
+            "name": "USD//C"
+          },
+          "token1": {
+            "name": "Wrapped Ether"
+          }
+        },
+        {
+          "date": 1616803200,
+          "reserve0": "134245576.260717",
+          "reserve1": "78231.027868636148713384",
+          "token0": {
+            "name": "USD//C"
+          },
+          "token1": {
+            "name": "Wrapped Ether"
+          }
+        },
+        {
+          "date": 1616889600,
+          "reserve0": "134117354.284343",
+          "reserve1": "79555.331722526653523549",
+          "token0": {
+            "name": "USD//C"
+          },
+          "token1": {
+            "name": "Wrapped Ether"
+          }
+        },
+        {
+          "date": 1616976000,
+          "reserve0": "137930077.637512",
+          "reserve1": "76097.989708566213795685",
+          "token0": {
+            "name": "USD//C"
+          },
+          "token1": {
+            "name": "Wrapped Ether"
+          }
+        },
+        {
+          "date": 1617062400,
+          "reserve0": "138604528.384297",
+          "reserve1": "75525.643450075386449093",
+          "token0": {
+            "name": "USD//C"
+          },
+          "token1": {
+            "name": "Wrapped Ether"
+          }
+        },
+        {
+          "date": 1617148800,
+          "reserve0": "144549753.752588",
+          "reserve1": "75255.982840671925602217",
+          "token0": {
+            "name": "USD//C"
+          },
+          "token1": {
+            "name": "Wrapped Ether"
+          }
+        },
+        {
+          "date": 1617235200,
+          "reserve0": "140834312.340274",
+          "reserve1": "71501.958284769872576203",
+          "token0": {
+            "name": "USD//C"
+          },
+          "token1": {
+            "name": "Wrapped Ether"
+          }
+        },
+        {
+          "date": 1617321600,
+          "reserve0": "151328688.836752",
+          "reserve1": "71073.395442971169007148",
+          "token0": {
+            "name": "USD//C"
+          },
+          "token1": {
+            "name": "Wrapped Ether"
+          }
+        },
+        {
+          "date": 1617408000,
+          "reserve0": "146977072.713522",
+          "reserve1": "73144.493568772915691969",
+          "token0": {
+            "name": "USD//C"
+          },
+          "token1": {
+            "name": "Wrapped Ether"
+          }
+        },
+        {
+          "date": 1617494400,
+          "reserve0": "147551203.328062",
+          "reserve1": "71527.950397832691334864",
+          "token0": {
+            "name": "USD//C"
+          },
+          "token1": {
+            "name": "Wrapped Ether"
+          }
+        },
+        {
+          "date": 1617580800,
+          "reserve0": "149524704.511764",
+          "reserve1": "71194.018285169082915129",
+          "token0": {
+            "name": "USD//C"
+          },
+          "token1": {
+            "name": "Wrapped Ether"
+          }
+        },
+        {
+          "date": 1617667200,
+          "reserve0": "151392212.783866",
+          "reserve1": "71629.973520417380678843",
+          "token0": {
+            "name": "USD//C"
+          },
+          "token1": {
+            "name": "Wrapped Ether"
+          }
+        },
+        {
+          "date": 1617753600,
+          "reserve0": "146837672.540569",
+          "reserve1": "74677.423484047322528439",
+          "token0": {
+            "name": "USD//C"
+          },
+          "token1": {
+            "name": "Wrapped Ether"
+          }
+        },
+        {
+          "date": 1617840000,
+          "reserve0": "140749071.78262",
+          "reserve1": "67774.679624138919835179",
+          "token0": {
+            "name": "USD//C"
+          },
+          "token1": {
+            "name": "Wrapped Ether"
+          }
+        },
+        {
+          "date": 1617926400,
+          "reserve0": "137147407.761066",
+          "reserve1": "66587.814156000287056088",
+          "token0": {
+            "name": "USD//C"
+          },
+          "token1": {
+            "name": "Wrapped Ether"
+          }
+        },
+        {
+          "date": 1618012800,
+          "reserve0": "139816303.274951",
+          "reserve1": "65509.177447333069201802",
+          "token0": {
+            "name": "USD//C"
+          },
+          "token1": {
+            "name": "Wrapped Ether"
+          }
+        },
+        {
+          "date": 1618099200,
+          "reserve0": "143575226.950636",
+          "reserve1": "66927.053098819953227696",
+          "token0": {
+            "name": "USD//C"
+          },
+          "token1": {
+            "name": "Wrapped Ether"
+          }
+        },
+        {
+          "date": 1618185600,
+          "reserve0": "145245184.410107",
+          "reserve1": "67807.286615427096239125",
+          "token0": {
+            "name": "USD//C"
+          },
+          "token1": {
+            "name": "Wrapped Ether"
+          }
+        },
+        {
+          "date": 1618272000,
+          "reserve0": "152265196.371034",
+          "reserve1": "66282.107507926318797337",
+          "token0": {
+            "name": "USD//C"
+          },
+          "token1": {
+            "name": "Wrapped Ether"
+          }
+        },
+        {
+          "date": 1618358400,
+          "reserve0": "155844781.254951",
+          "reserve1": "64276.834315071984280011",
+          "token0": {
+            "name": "USD//C"
+          },
+          "token1": {
+            "name": "Wrapped Ether"
+          }
+        },
+        {
+          "date": 1618444800,
+          "reserve0": "156913200.428559",
+          "reserve1": "62384.028679044927014822",
+          "token0": {
+            "name": "USD//C"
+          },
+          "token1": {
+            "name": "Wrapped Ether"
+          }
+        },
+        {
+          "date": 1618531200,
+          "reserve0": "154910256.09288",
+          "reserve1": "63811.575374283810956874",
+          "token0": {
+            "name": "USD//C"
+          },
+          "token1": {
+            "name": "Wrapped Ether"
+          }
+        },
+        {
+          "date": 1618617600,
+          "reserve0": "156493187.1196",
+          "reserve1": "67351.501840445104651625",
+          "token0": {
+            "name": "USD//C"
+          },
+          "token1": {
+            "name": "Wrapped Ether"
+          }
+        },
+        {
+          "date": 1618704000,
+          "reserve0": "154717288.806506",
+          "reserve1": "69183.068680698458269835",
+          "token0": {
+            "name": "USD//C"
+          },
+          "token1": {
+            "name": "Wrapped Ether"
+          }
+        },
+        {
+          "date": 1618790400,
+          "reserve0": "153278072.013952",
+          "reserve1": "70741.735277217852831945",
+          "token0": {
+            "name": "USD//C"
+          },
+          "token1": {
+            "name": "Wrapped Ether"
+          }
+        },
+        {
+          "date": 1618876800,
+          "reserve0": "161470433.782363",
+          "reserve1": "69382.766453319524322928",
+          "token0": {
+            "name": "USD//C"
+          },
+          "token1": {
+            "name": "Wrapped Ether"
+          }
+        },
+        {
+          "date": 1618963200,
+          "reserve0": "172112329.431869",
+          "reserve1": "72786.326761343516972705",
+          "token0": {
+            "name": "USD//C"
+          },
+          "token1": {
+            "name": "Wrapped Ether"
+          }
+        },
+        {
+          "date": 1619049600,
+          "reserve0": "179320434.074353",
+          "reserve1": "74668.776412849397597336",
+          "token0": {
+            "name": "USD//C"
+          },
+          "token1": {
+            "name": "Wrapped Ether"
+          }
+        },
+        {
+          "date": 1619136000,
+          "reserve0": "181425364.652403",
+          "reserve1": "76524.533201369520769978",
+          "token0": {
+            "name": "USD//C"
+          },
+          "token1": {
+            "name": "Wrapped Ether"
+          }
+        },
+        {
+          "date": 1619222400,
+          "reserve0": "177237530.673494",
+          "reserve1": "80081.069185567395860236",
+          "token0": {
+            "name": "USD//C"
+          },
+          "token1": {
+            "name": "Wrapped Ether"
+          }
+        },
+        {
+          "date": 1619308800,
+          "reserve0": "183274926.135019",
+          "reserve1": "79206.746947818738425382",
+          "token0": {
+            "name": "USD//C"
+          },
+          "token1": {
+            "name": "Wrapped Ether"
+          }
+        },
+        {
+          "date": 1619395200,
+          "reserve0": "194992978.245861",
+          "reserve1": "76922.169465958996044441",
+          "token0": {
+            "name": "USD//C"
+          },
+          "token1": {
+            "name": "Wrapped Ether"
+          }
+        },
+        {
+          "date": 1619481600,
+          "reserve0": "199257740.912028",
+          "reserve1": "74948.609302106970397899",
+          "token0": {
+            "name": "USD//C"
+          },
+          "token1": {
+            "name": "Wrapped Ether"
+          }
+        },
+        {
+          "date": 1619568000,
+          "reserve0": "205229455.752199",
+          "reserve1": "74755.982376609858070691",
+          "token0": {
+            "name": "USD//C"
+          },
+          "token1": {
+            "name": "Wrapped Ether"
+          }
+        },
+        {
+          "date": 1619654400,
+          "reserve0": "208531162.205631",
+          "reserve1": "75530.837987713541609236",
+          "token0": {
+            "name": "USD//C"
+          },
+          "token1": {
+            "name": "Wrapped Ether"
+          }
+        },
+        {
+          "date": 1619740800,
+          "reserve0": "206956620.218795",
+          "reserve1": "74722.914476619509626992",
+          "token0": {
+            "name": "USD//C"
+          },
+          "token1": {
+            "name": "Wrapped Ether"
+          }
+        },
+        {
+          "date": 1619827200,
+          "reserve0": "213367876.5041",
+          "reserve1": "72486.947863047911933994",
+          "token0": {
+            "name": "USD//C"
+          },
+          "token1": {
+            "name": "Wrapped Ether"
+          }
+        },
+        {
+          "date": 1619913600,
+          "reserve0": "214555572.728287",
+          "reserve1": "72748.736705663277222585",
+          "token0": {
+            "name": "USD//C"
+          },
+          "token1": {
+            "name": "Wrapped Ether"
+          }
+        },
+        {
+          "date": 1620000000,
+          "reserve0": "227992455.110094",
+          "reserve1": "66576.36070394774645005",
+          "token0": {
+            "name": "USD//C"
+          },
+          "token1": {
+            "name": "Wrapped Ether"
+          }
+        },
+        {
+          "date": 1620086400,
+          "reserve0": "217607980.297304",
+          "reserve1": "67032.361688438258245679",
+          "token0": {
+            "name": "USD//C"
+          },
+          "token1": {
+            "name": "Wrapped Ether"
+          }
+        },
+        {
+          "date": 1620172800,
+          "reserve0": "215366571.97943",
+          "reserve1": "61211.865831792300227036",
+          "token0": {
+            "name": "USD//C"
+          },
+          "token1": {
+            "name": "Wrapped Ether"
+          }
+        },
+        {
+          "date": 1620259200,
+          "reserve0": "191786688.710617",
+          "reserve1": "54836.498284764150811462",
+          "token0": {
+            "name": "USD//C"
+          },
+          "token1": {
+            "name": "Wrapped Ether"
+          }
+        },
+        {
+          "date": 1620345600,
+          "reserve0": "181806570.586949",
+          "reserve1": "52256.941756066784222773",
+          "token0": {
+            "name": "USD//C"
+          },
+          "token1": {
+            "name": "Wrapped Ether"
+          }
+        },
+        {
+          "date": 1620432000,
+          "reserve0": "184595894.347321",
+          "reserve1": "47262.041138366610847075",
+          "token0": {
+            "name": "USD//C"
+          },
+          "token1": {
+            "name": "Wrapped Ether"
+          }
+        },
+        {
+          "date": 1620518400,
+          "reserve0": "175688676.787239",
+          "reserve1": "44811.742723997984927163",
+          "token0": {
+            "name": "USD//C"
+          },
+          "token1": {
+            "name": "Wrapped Ether"
+          }
+        },
+        {
+          "date": 1620604800,
+          "reserve0": "173657552.517339",
+          "reserve1": "44030.952530747246972374",
+          "token0": {
+            "name": "USD//C"
+          },
+          "token1": {
+            "name": "Wrapped Ether"
+          }
+        },
+        {
+          "date": 1620691200,
+          "reserve0": "175481571.729201",
+          "reserve1": "42116.692327164299569694",
+          "token0": {
+            "name": "USD//C"
+          },
+          "token1": {
+            "name": "Wrapped Ether"
+          }
+        },
+        {
+          "date": 1620777600,
+          "reserve0": "166225176.215259",
+          "reserve1": "43548.74978724322318863",
+          "token0": {
+            "name": "USD//C"
+          },
+          "token1": {
+            "name": "Wrapped Ether"
+          }
+        },
+        {
+          "date": 1620864000,
+          "reserve0": "163741738.829517",
+          "reserve1": "44002.901224838787942713",
+          "token0": {
+            "name": "USD//C"
+          },
+          "token1": {
+            "name": "Wrapped Ether"
+          }
+        },
+        {
+          "date": 1620950400,
+          "reserve0": "168576330.714176",
+          "reserve1": "41242.141782448610653466",
+          "token0": {
+            "name": "USD//C"
+          },
+          "token1": {
+            "name": "Wrapped Ether"
+          }
+        },
+        {
+          "date": 1621036800,
+          "reserve0": "158866786.99468",
+          "reserve1": "43603.900382892192447992",
+          "token0": {
+            "name": "USD//C"
+          },
+          "token1": {
+            "name": "Wrapped Ether"
+          }
+        },
+        {
+          "date": 1621123200,
+          "reserve0": "157371724.690153",
+          "reserve1": "43926.549299409326228182",
+          "token0": {
+            "name": "USD//C"
+          },
+          "token1": {
+            "name": "Wrapped Ether"
+          }
+        },
+        {
+          "date": 1621209600,
+          "reserve0": "149778333.537006",
+          "reserve1": "45541.042924188714430813",
+          "token0": {
+            "name": "USD//C"
+          },
+          "token1": {
+            "name": "Wrapped Ether"
+          }
+        },
+        {
+          "date": 1621296000,
+          "reserve0": "151293936.904551",
+          "reserve1": "44673.50237398989938013",
+          "token0": {
+            "name": "USD//C"
+          },
+          "token1": {
+            "name": "Wrapped Ether"
+          }
+        },
+        {
+          "date": 1621382400,
+          "reserve0": "108045054.515599",
+          "reserve1": "43967.930257387295144008",
+          "token0": {
+            "name": "USD//C"
+          },
+          "token1": {
+            "name": "Wrapped Ether"
+          }
+        },
+        {
+          "date": 1621468800,
+          "reserve0": "115103840.189385",
+          "reserve1": "41434.751920037634008164",
+          "token0": {
+            "name": "USD//C"
+          },
+          "token1": {
+            "name": "Wrapped Ether"
+          }
+        },
+        {
+          "date": 1621555200,
+          "reserve0": "109280857.193834",
+          "reserve1": "44978.136242010872041106",
+          "token0": {
+            "name": "USD//C"
+          },
+          "token1": {
+            "name": "Wrapped Ether"
+          }
+        },
+        {
+          "date": 1621641600,
+          "reserve0": "106974547.818535",
+          "reserve1": "46652.618916176962285456",
+          "token0": {
+            "name": "USD//C"
+          },
+          "token1": {
+            "name": "Wrapped Ether"
+          }
+        },
+        {
+          "date": 1621728000,
+          "reserve0": "114884630.075818",
+          "reserve1": "54601.612394610805101311",
+          "token0": {
+            "name": "USD//C"
+          },
+          "token1": {
+            "name": "Wrapped Ether"
+          }
+        },
+        {
+          "date": 1621814400,
+          "reserve0": "151643480.3267",
+          "reserve1": "57414.327919439797574948",
+          "token0": {
+            "name": "USD//C"
+          },
+          "token1": {
+            "name": "Wrapped Ether"
+          }
+        },
+        {
+          "date": 1621900800,
+          "reserve0": "154634824.47714",
+          "reserve1": "57238.348012249050710996",
+          "token0": {
+            "name": "USD//C"
+          },
+          "token1": {
+            "name": "Wrapped Ether"
+          }
+        },
+        {
+          "date": 1621987200,
+          "reserve0": "158688908.096767",
+          "reserve1": "55030.131207069551100739",
+          "token0": {
+            "name": "USD//C"
+          },
+          "token1": {
+            "name": "Wrapped Ether"
+          }
+        },
+        {
+          "date": 1622073600,
+          "reserve0": "139353591.753215",
+          "reserve1": "50837.844364219410979213",
+          "token0": {
+            "name": "USD//C"
+          },
+          "token1": {
+            "name": "Wrapped Ether"
+          }
+        },
+        {
+          "date": 1622160000,
+          "reserve0": "126699403.555369",
+          "reserve1": "52360.242547051342240307",
+          "token0": {
+            "name": "USD//C"
+          },
+          "token1": {
+            "name": "Wrapped Ether"
+          }
+        },
+        {
+          "date": 1622246400,
+          "reserve0": "128258673.872614",
+          "reserve1": "56207.010530262143069607",
+          "token0": {
+            "name": "USD//C"
+          },
+          "token1": {
+            "name": "Wrapped Ether"
+          }
+        },
+        {
+          "date": 1622332800,
+          "reserve0": "133955454.020394",
+          "reserve1": "56020.038432883615390597",
+          "token0": {
+            "name": "USD//C"
+          },
+          "token1": {
+            "name": "Wrapped Ether"
+          }
+        },
+        {
+          "date": 1622419200,
+          "reserve0": "140631963.424924",
+          "reserve1": "51988.625628067706667415",
+          "token0": {
+            "name": "USD//C"
+          },
+          "token1": {
+            "name": "Wrapped Ether"
+          }
+        },
+        {
+          "date": 1622505600,
+          "reserve0": "137571475.11169",
+          "reserve1": "52205.063361385517839779",
+          "token0": {
+            "name": "USD//C"
+          },
+          "token1": {
+            "name": "Wrapped Ether"
+          }
+        },
+        {
+          "date": 1622592000,
+          "reserve0": "143411795.514937",
+          "reserve1": "52895.250395762047528947",
+          "token0": {
+            "name": "USD//C"
+          },
+          "token1": {
+            "name": "Wrapped Ether"
+          }
+        },
+        {
+          "date": 1622678400,
+          "reserve0": "146102894.507851",
+          "reserve1": "51170.53851124143616048",
+          "token0": {
+            "name": "USD//C"
+          },
+          "token1": {
+            "name": "Wrapped Ether"
+          }
+        },
+        {
+          "date": 1622764800,
+          "reserve0": "133924429.598766",
+          "reserve1": "49928.379956710708188391",
+          "token0": {
+            "name": "USD//C"
+          },
+          "token1": {
+            "name": "Wrapped Ether"
+          }
+        },
+        {
+          "date": 1622851200,
+          "reserve0": "135717171.233104",
+          "reserve1": "51745.5568905487189792",
+          "token0": {
+            "name": "USD//C"
+          },
+          "token1": {
+            "name": "Wrapped Ether"
+          }
+        },
+        {
+          "date": 1622937600,
+          "reserve0": "139627089.8199",
+          "reserve1": "51599.706149731775730978",
+          "token0": {
+            "name": "USD//C"
+          },
+          "token1": {
+            "name": "Wrapped Ether"
+          }
+        },
+        {
+          "date": 1623024000,
+          "reserve0": "133060401.746967",
+          "reserve1": "51455.861195492101905975",
+          "token0": {
+            "name": "USD//C"
+          },
+          "token1": {
+            "name": "Wrapped Ether"
+          }
+        },
+        {
+          "date": 1623110400,
+          "reserve0": "128292030.819602",
+          "reserve1": "51104.604405529797808296",
+          "token0": {
+            "name": "USD//C"
+          },
+          "token1": {
+            "name": "Wrapped Ether"
+          }
+        },
+        {
+          "date": 1623196800,
+          "reserve0": "131030454.705421",
+          "reserve1": "50255.87177826704607722",
+          "token0": {
+            "name": "USD//C"
+          },
+          "token1": {
+            "name": "Wrapped Ether"
+          }
+        },
+        {
+          "date": 1623283200,
+          "reserve0": "120606903.992503",
+          "reserve1": "48789.713097754055611311",
+          "token0": {
+            "name": "USD//C"
+          },
+          "token1": {
+            "name": "Wrapped Ether"
+          }
+        },
+        {
+          "date": 1623369600,
+          "reserve0": "118488483.268688",
+          "reserve1": "50424.172480984008769768",
+          "token0": {
+            "name": "USD//C"
+          },
+          "token1": {
+            "name": "Wrapped Ether"
+          }
+        },
+        {
+          "date": 1623456000,
+          "reserve0": "118216751.35683",
+          "reserve1": "49806.235251678117576143",
+          "token0": {
+            "name": "USD//C"
+          },
+          "token1": {
+            "name": "Wrapped Ether"
+          }
+        },
+        {
+          "date": 1623542400,
+          "reserve0": "127133161.025539",
+          "reserve1": "50710.315639385414488602",
+          "token0": {
+            "name": "USD//C"
+          },
+          "token1": {
+            "name": "Wrapped Ether"
+          }
+        },
+        {
+          "date": 1623628800,
+          "reserve0": "127423497.263608",
+          "reserve1": "49486.409539613626430058",
+          "token0": {
+            "name": "USD//C"
+          },
+          "token1": {
+            "name": "Wrapped Ether"
+          }
+        },
+        {
+          "date": 1623715200,
+          "reserve0": "126267566.401998",
+          "reserve1": "49508.53853077275208711",
+          "token0": {
+            "name": "USD//C"
+          },
+          "token1": {
+            "name": "Wrapped Ether"
+          }
+        },
+        {
+          "date": 1623801600,
+          "reserve0": "118941403.886867",
+          "reserve1": "50357.807963074654542604",
+          "token0": {
+            "name": "USD//C"
+          },
+          "token1": {
+            "name": "Wrapped Ether"
+          }
+        },
+        {
+          "date": 1623888000,
+          "reserve0": "118684480.092389",
+          "reserve1": "50113.535489938192061216",
+          "token0": {
+            "name": "USD//C"
+          },
+          "token1": {
+            "name": "Wrapped Ether"
+          }
+        },
+        {
+          "date": 1623974400,
+          "reserve0": "99824759.915509",
+          "reserve1": "44630.035783289853304632",
+          "token0": {
+            "name": "USD//C"
+          },
+          "token1": {
+            "name": "Wrapped Ether"
+          }
+        },
+        {
+          "date": 1624060800,
+          "reserve0": "95945940.274993",
+          "reserve1": "44165.811759630535303296",
+          "token0": {
+            "name": "USD//C"
+          },
+          "token1": {
+            "name": "Wrapped Ether"
+          }
+        },
+        {
+          "date": 1624147200,
+          "reserve0": "93222799.898798",
+          "reserve1": "41622.187493188885111444",
+          "token0": {
+            "name": "USD//C"
+          },
+          "token1": {
+            "name": "Wrapped Ether"
+          }
+        },
+        {
+          "date": 1624233600,
+          "reserve0": "85394747.728871",
+          "reserve1": "45305.792777157120572696",
+          "token0": {
+            "name": "USD//C"
+          },
+          "token1": {
+            "name": "Wrapped Ether"
+          }
+        },
+        {
+          "date": 1624320000,
+          "reserve0": "98895329.222685",
+          "reserve1": "52828.877538278748953626",
+          "token0": {
+            "name": "USD//C"
+          },
+          "token1": {
+            "name": "Wrapped Ether"
+          }
+        },
+        {
+          "date": 1624406400,
+          "reserve0": "102935078.627323",
+          "reserve1": "52251.000816547637555526",
+          "token0": {
+            "name": "USD//C"
+          },
+          "token1": {
+            "name": "Wrapped Ether"
+          }
+        },
+        {
+          "date": 1624492800,
+          "reserve0": "143888446.113875",
+          "reserve1": "72385.762570097897478126",
+          "token0": {
+            "name": "USD//C"
+          },
+          "token1": {
+            "name": "Wrapped Ether"
+          }
+        },
+        {
+          "date": 1624579200,
+          "reserve0": "141241388.948354",
+          "reserve1": "77768.734585537655509578",
+          "token0": {
+            "name": "USD//C"
+          },
+          "token1": {
+            "name": "Wrapped Ether"
+          }
+        },
+        {
+          "date": 1624665600,
+          "reserve0": "139972158.859636",
+          "reserve1": "76648.958767116952554115",
+          "token0": {
+            "name": "USD//C"
+          },
+          "token1": {
+            "name": "Wrapped Ether"
+          }
+        },
+        {
+          "date": 1624752000,
+          "reserve0": "134795532.839945",
+          "reserve1": "68135.578012544694196846",
+          "token0": {
+            "name": "USD//C"
+          },
+          "token1": {
+            "name": "Wrapped Ether"
+          }
+        },
+        {
+          "date": 1624838400,
+          "reserve0": "138730965.525962",
+          "reserve1": "66690.725339647483814417",
+          "token0": {
+            "name": "USD//C"
+          },
+          "token1": {
+            "name": "Wrapped Ether"
+          }
+        },
+        {
+          "date": 1624924800,
+          "reserve0": "151507031.19778",
+          "reserve1": "69990.808304504539977092",
+          "token0": {
+            "name": "USD//C"
+          },
+          "token1": {
+            "name": "Wrapped Ether"
+          }
+        },
+        {
+          "date": 1625011200,
+          "reserve0": "155028456.134653",
+          "reserve1": "68156.293084601118436926",
+          "token0": {
+            "name": "USD//C"
+          },
+          "token1": {
+            "name": "Wrapped Ether"
+          }
+        },
+        {
+          "date": 1625097600,
+          "reserve0": "159686138.744123",
+          "reserve1": "75627.3830009171675124",
+          "token0": {
+            "name": "USD//C"
+          },
+          "token1": {
+            "name": "Wrapped Ether"
+          }
+        },
+        {
+          "date": 1625184000,
+          "reserve0": "160419092.387642",
+          "reserve1": "74624.858357751741055033",
+          "token0": {
+            "name": "USD//C"
+          },
+          "token1": {
+            "name": "Wrapped Ether"
+          }
+        },
+        {
+          "date": 1625270400,
+          "reserve0": "151263167.790926",
+          "reserve1": "67959.853154449651742287",
+          "token0": {
+            "name": "USD//C"
+          },
+          "token1": {
+            "name": "Wrapped Ether"
+          }
+        },
+        {
+          "date": 1625356800,
+          "reserve0": "153650975.959724",
+          "reserve1": "66000.807651775600547769",
+          "token0": {
+            "name": "USD//C"
+          },
+          "token1": {
+            "name": "Wrapped Ether"
+          }
+        },
+        {
+          "date": 1625443200,
+          "reserve0": "161546754.333206",
+          "reserve1": "73353.840749728189715461",
+          "token0": {
+            "name": "USD//C"
+          },
+          "token1": {
+            "name": "Wrapped Ether"
+          }
+        },
+        {
+          "date": 1625529600,
+          "reserve0": "166307685.042134",
+          "reserve1": "71664.107329209424059947",
+          "token0": {
+            "name": "USD//C"
+          },
+          "token1": {
+            "name": "Wrapped Ether"
+          }
+        },
+        {
+          "date": 1625616000,
+          "reserve0": "163864616.629295",
+          "reserve1": "70793.412569371270469914",
+          "token0": {
+            "name": "USD//C"
+          },
+          "token1": {
+            "name": "Wrapped Ether"
+          }
+        },
+        {
+          "date": 1625702400,
+          "reserve0": "146367777.970779",
+          "reserve1": "69053.174654988588688124",
+          "token0": {
+            "name": "USD//C"
+          },
+          "token1": {
+            "name": "Wrapped Ether"
+          }
+        },
+        {
+          "date": 1625788800,
+          "reserve0": "147552341.873772",
+          "reserve1": "68542.123157539919058726",
+          "token0": {
+            "name": "USD//C"
+          },
+          "token1": {
+            "name": "Wrapped Ether"
+          }
+        },
+        {
+          "date": 1625875200,
+          "reserve0": "145884305.168274",
+          "reserve1": "68964.863504671592176619",
+          "token0": {
+            "name": "USD//C"
+          },
+          "token1": {
+            "name": "Wrapped Ether"
+          }
+        },
+        {
+          "date": 1625961600,
+          "reserve0": "146278973.943931",
+          "reserve1": "68291.545154618867796692",
+          "token0": {
+            "name": "USD//C"
+          },
+          "token1": {
+            "name": "Wrapped Ether"
+          }
+        },
+        {
+          "date": 1626048000,
+          "reserve0": "133457634.107966",
+          "reserve1": "65571.791402573595631765",
+          "token0": {
+            "name": "USD//C"
+          },
+          "token1": {
+            "name": "Wrapped Ether"
+          }
+        },
+        {
+          "date": 1626134400,
+          "reserve0": "128943768.99379",
+          "reserve1": "66490.015343994570114005",
+          "token0": {
+            "name": "USD//C"
+          },
+          "token1": {
+            "name": "Wrapped Ether"
+          }
+        },
+        {
+          "date": 1626220800,
+          "reserve0": "130659967.259049",
+          "reserve1": "65569.62357570205585344",
+          "token0": {
+            "name": "USD//C"
+          },
+          "token1": {
+            "name": "Wrapped Ether"
+          }
+        },
+        {
+          "date": 1626307200,
+          "reserve0": "135732884.207231",
+          "reserve1": "70853.172388352686575116",
+          "token0": {
+            "name": "USD//C"
+          },
+          "token1": {
+            "name": "Wrapped Ether"
+          }
+        },
+        {
+          "date": 1626393600,
+          "reserve0": "134016522.445217",
+          "reserve1": "71509.390584709775216103",
+          "token0": {
+            "name": "USD//C"
+          },
+          "token1": {
+            "name": "Wrapped Ether"
+          }
+        },
+        {
+          "date": 1626480000,
+          "reserve0": "134860969.135667",
+          "reserve1": "71140.812859577951100986",
+          "token0": {
+            "name": "USD//C"
+          },
+          "token1": {
+            "name": "Wrapped Ether"
+          }
+        },
+        {
+          "date": 1626566400,
+          "reserve0": "121953388.316649",
+          "reserve1": "64269.804076033049042693",
+          "token0": {
+            "name": "USD//C"
+          },
+          "token1": {
+            "name": "Wrapped Ether"
+          }
+        },
+        {
+          "date": 1626652800,
+          "reserve0": "119343815.511175",
+          "reserve1": "65568.663734995356916659",
+          "token0": {
+            "name": "USD//C"
+          },
+          "token1": {
+            "name": "Wrapped Ether"
+          }
+        },
+        {
+          "date": 1626739200,
+          "reserve0": "117869446.8223",
+          "reserve1": "65982.146836002549643132",
+          "token0": {
+            "name": "USD//C"
+          },
+          "token1": {
+            "name": "Wrapped Ether"
+          }
+        },
+        {
+          "date": 1626825600,
+          "reserve0": "133421029.285165",
+          "reserve1": "67043.117596114644349244",
+          "token0": {
+            "name": "USD//C"
+          },
+          "token1": {
+            "name": "Wrapped Ether"
+          }
+        },
+        {
+          "date": 1626912000,
+          "reserve0": "134344573.165057",
+          "reserve1": "66451.61065240880955681",
+          "token0": {
+            "name": "USD//C"
+          },
+          "token1": {
+            "name": "Wrapped Ether"
+          }
+        },
+        {
+          "date": 1626998400,
+          "reserve0": "137526759.496025",
+          "reserve1": "64815.863051521373367524",
+          "token0": {
+            "name": "USD//C"
+          },
+          "token1": {
+            "name": "Wrapped Ether"
+          }
+        },
+        {
+          "date": 1627084800,
+          "reserve0": "130812202.90369",
+          "reserve1": "59926.614842215311556544",
+          "token0": {
+            "name": "USD//C"
+          },
+          "token1": {
+            "name": "Wrapped Ether"
+          }
+        },
+        {
+          "date": 1627171200,
+          "reserve0": "131058888.038982",
+          "reserve1": "59848.823553716177733817",
+          "token0": {
+            "name": "USD//C"
+          },
+          "token1": {
+            "name": "Wrapped Ether"
+          }
+        },
+        {
+          "date": 1627257600,
+          "reserve0": "132604219.393009",
+          "reserve1": "59275.069231597667901009",
+          "token0": {
+            "name": "USD//C"
+          },
+          "token1": {
+            "name": "Wrapped Ether"
+          }
+        },
+        {
+          "date": 1627344000,
+          "reserve0": "136378868.324257",
+          "reserve1": "59413.860865697717687004",
+          "token0": {
+            "name": "USD//C"
+          },
+          "token1": {
+            "name": "Wrapped Ether"
+          }
+        },
+        {
+          "date": 1627430400,
+          "reserve0": "136506578.069035",
+          "reserve1": "59407.765040112128102694",
+          "token0": {
+            "name": "USD//C"
+          },
+          "token1": {
+            "name": "Wrapped Ether"
+          }
+        },
+        {
+          "date": 1627516800,
+          "reserve0": "138961068.413458",
+          "reserve1": "58401.358019840085667325",
+          "token0": {
+            "name": "USD//C"
+          },
+          "token1": {
+            "name": "Wrapped Ether"
+          }
+        },
+        {
+          "date": 1627603200,
+          "reserve0": "141356009.883268",
+          "reserve1": "57210.484895650575174071",
+          "token0": {
+            "name": "USD//C"
+          },
+          "token1": {
+            "name": "Wrapped Ether"
+          }
+        },
+        {
+          "date": 1627689600,
+          "reserve0": "143364614.99495",
+          "reserve1": "56399.387255146740088231",
+          "token0": {
+            "name": "USD//C"
+          },
+          "token1": {
+            "name": "Wrapped Ether"
+          }
+        },
+        {
+          "date": 1627776000,
+          "reserve0": "142829400.656798",
+          "reserve1": "55682.0351079126577909",
+          "token0": {
+            "name": "USD//C"
+          },
+          "token1": {
+            "name": "Wrapped Ether"
+          }
+        },
+        {
+          "date": 1627862400,
+          "reserve0": "144262724.556995",
+          "reserve1": "55237.108511184123004432",
+          "token0": {
+            "name": "USD//C"
+          },
+          "token1": {
+            "name": "Wrapped Ether"
+          }
+        },
+        {
+          "date": 1627948800,
+          "reserve0": "141242422.5738",
+          "reserve1": "56407.269200488668314116",
+          "token0": {
+            "name": "USD//C"
+          },
+          "token1": {
+            "name": "Wrapped Ether"
+          }
+        },
+        {
+          "date": 1628035200,
+          "reserve0": "147278166.524259",
+          "reserve1": "54085.363557177006630626",
+          "token0": {
+            "name": "USD//C"
+          },
+          "token1": {
+            "name": "Wrapped Ether"
+          }
+        },
+        {
+          "date": 1628121600,
+          "reserve0": "150360039.722125",
+          "reserve1": "53225.39285893455060061",
+          "token0": {
+            "name": "USD//C"
+          },
+          "token1": {
+            "name": "Wrapped Ether"
+          }
+        },
+        {
+          "date": 1628208000,
+          "reserve0": "150280526.977297",
+          "reserve1": "52061.822531287760822993",
+          "token0": {
+            "name": "USD//C"
+          },
+          "token1": {
+            "name": "Wrapped Ether"
+          }
+        },
+        {
+          "date": 1628294400,
+          "reserve0": "152114170.183294",
+          "reserve1": "48137.271781958926412023",
+          "token0": {
+            "name": "USD//C"
+          },
+          "token1": {
+            "name": "Wrapped Ether"
+          }
+        },
+        {
+          "date": 1628380800,
+          "reserve0": "148378786.483754",
+          "reserve1": "49254.793392410840349021",
+          "token0": {
+            "name": "USD//C"
+          },
+          "token1": {
+            "name": "Wrapped Ether"
+          }
+        },
+        {
+          "date": 1628467200,
+          "reserve0": "152508411.560162",
+          "reserve1": "48252.073030235424503813",
+          "token0": {
+            "name": "USD//C"
+          },
+          "token1": {
+            "name": "Wrapped Ether"
+          }
+        },
+        {
+          "date": 1628553600,
+          "reserve0": "152195477.848815",
+          "reserve1": "48469.296641350584541477",
+          "token0": {
+            "name": "USD//C"
+          },
+          "token1": {
+            "name": "Wrapped Ether"
+          }
+        },
+        {
+          "date": 1628640000,
+          "reserve0": "152457360.329396",
+          "reserve1": "48052.216495215968862376",
+          "token0": {
+            "name": "USD//C"
+          },
+          "token1": {
+            "name": "Wrapped Ether"
+          }
+        },
+        {
+          "date": 1628726400,
+          "reserve0": "149304285.494514",
+          "reserve1": "49086.540158208442597284",
+          "token0": {
+            "name": "USD//C"
+          },
+          "token1": {
+            "name": "Wrapped Ether"
+          }
+        },
+        {
+          "date": 1628812800,
+          "reserve0": "155880384.656505",
+          "reserve1": "46952.859808179767637992",
+          "token0": {
+            "name": "USD//C"
+          },
+          "token1": {
+            "name": "Wrapped Ether"
+          }
+        },
+        {
+          "date": 1628899200,
+          "reserve0": "154817987.765236",
+          "reserve1": "47309.246431013004253861",
+          "token0": {
+            "name": "USD//C"
+          },
+          "token1": {
+            "name": "Wrapped Ether"
+          }
+        },
+        {
+          "date": 1628985600,
+          "reserve0": "155310267.615614",
+          "reserve1": "46979.877761083649312939",
+          "token0": {
+            "name": "USD//C"
+          },
+          "token1": {
+            "name": "Wrapped Ether"
+          }
+        },
+        {
+          "date": 1629072000,
+          "reserve0": "151638651.013545",
+          "reserve1": "48118.822537894492382315",
+          "token0": {
+            "name": "USD//C"
+          },
+          "token1": {
+            "name": "Wrapped Ether"
+          }
+        },
+        {
+          "date": 1629158400,
+          "reserve0": "148341724.486538",
+          "reserve1": "49281.189299141504038861",
+          "token0": {
+            "name": "USD//C"
+          },
+          "token1": {
+            "name": "Wrapped Ether"
+          }
+        },
+        {
+          "date": 1629244800,
+          "reserve0": "148016066.966494",
+          "reserve1": "48965.531451154795849359",
+          "token0": {
+            "name": "USD//C"
+          },
+          "token1": {
+            "name": "Wrapped Ether"
+          }
+        },
+        {
+          "date": 1629331200,
+          "reserve0": "98042387.103098",
+          "reserve1": "30850.185170389441241094",
+          "token0": {
+            "name": "USD//C"
+          },
+          "token1": {
+            "name": "Wrapped Ether"
+          }
+        },
+        {
+          "date": 1629417600,
+          "reserve0": "99504380.496332",
+          "reserve1": "30360.085032902293641435",
+          "token0": {
+            "name": "USD//C"
+          },
+          "token1": {
+            "name": "Wrapped Ether"
+          }
+        },
+        {
+          "date": 1629504000,
+          "reserve0": "98922100.730083",
+          "reserve1": "30585.654931198239376747",
+          "token0": {
+            "name": "USD//C"
+          },
+          "token1": {
+            "name": "Wrapped Ether"
+          }
+        },
+        {
+          "date": 1629590400,
+          "reserve0": "99256943.887453",
+          "reserve1": "30578.25055294884468462",
+          "token0": {
+            "name": "USD//C"
+          },
+          "token1": {
+            "name": "Wrapped Ether"
+          }
+        },
+        {
+          "date": 1629676800,
+          "reserve0": "100337155.184886",
+          "reserve1": "30178.057000483471124592",
+          "token0": {
+            "name": "USD//C"
+          },
+          "token1": {
+            "name": "Wrapped Ether"
+          }
+        },
+        {
+          "date": 1629763200,
+          "reserve0": "97970157.47794",
+          "reserve1": "30870.217380590463310097",
+          "token0": {
+            "name": "USD//C"
+          },
+          "token1": {
+            "name": "Wrapped Ether"
+          }
+        },
+        {
+          "date": 1629849600,
+          "reserve0": "99192871.995208",
+          "reserve1": "30816.644507606618788946",
+          "token0": {
+            "name": "USD//C"
+          },
+          "token1": {
+            "name": "Wrapped Ether"
+          }
+        },
+        {
+          "date": 1629936000,
+          "reserve0": "113254897.084489",
+          "reserve1": "36523.782317973295094443",
+          "token0": {
+            "name": "USD//C"
+          },
+          "token1": {
+            "name": "Wrapped Ether"
+          }
+        },
+        {
+          "date": 1630022400,
+          "reserve0": "118836538.165095",
+          "reserve1": "36318.370235294763366087",
+          "token0": {
+            "name": "USD//C"
+          },
+          "token1": {
+            "name": "Wrapped Ether"
+          }
+        },
+        {
+          "date": 1630108800,
+          "reserve0": "118260709.943858",
+          "reserve1": "36547.921354864234409877",
+          "token0": {
+            "name": "USD//C"
+          },
+          "token1": {
+            "name": "Wrapped Ether"
+          }
+        },
+        {
+          "date": 1630195200,
+          "reserve0": "122959739.791376",
+          "reserve1": "38028.927606852298743116",
+          "token0": {
+            "name": "USD//C"
+          },
+          "token1": {
+            "name": "Wrapped Ether"
+          }
+        },
+        {
+          "date": 1630281600,
+          "reserve0": "122776947.76852",
+          "reserve1": "38076.678859025882668215",
+          "token0": {
+            "name": "USD//C"
+          },
+          "token1": {
+            "name": "Wrapped Ether"
+          }
+        },
+        {
+          "date": 1630368000,
+          "reserve0": "123448203.773337",
+          "reserve1": "35969.263214810145581895",
+          "token0": {
+            "name": "USD//C"
+          },
+          "token1": {
+            "name": "Wrapped Ether"
+          }
+        },
+        {
+          "date": 1630454400,
+          "reserve0": "110256975.260459",
+          "reserve1": "28835.828381851588961244",
+          "token0": {
+            "name": "USD//C"
+          },
+          "token1": {
+            "name": "Wrapped Ether"
+          }
+        },
+        {
+          "date": 1630540800,
+          "reserve0": "109584096.52295",
+          "reserve1": "28878.071494142121490323",
+          "token0": {
+            "name": "USD//C"
+          },
+          "token1": {
+            "name": "Wrapped Ether"
+          }
+        },
+        {
+          "date": 1630627200,
+          "reserve0": "113209226.228895",
+          "reserve1": "28822.849226082402437289",
+          "token0": {
+            "name": "USD//C"
+          },
+          "token1": {
+            "name": "Wrapped Ether"
+          }
+        },
+        {
+          "date": 1630713600,
+          "reserve0": "113328217.208739",
+          "reserve1": "29169.431489874719230752",
+          "token0": {
+            "name": "USD//C"
+          },
+          "token1": {
+            "name": "Wrapped Ether"
+          }
+        },
+        {
+          "date": 1630800000,
+          "reserve0": "114051914.983977",
+          "reserve1": "28858.548481764294018605",
+          "token0": {
+            "name": "USD//C"
+          },
+          "token1": {
+            "name": "Wrapped Ether"
+          }
+        },
+        {
+          "date": 1630886400,
+          "reserve0": "113600234.64424",
+          "reserve1": "28895.810856806753544265",
+          "token0": {
+            "name": "USD//C"
+          },
+          "token1": {
+            "name": "Wrapped Ether"
+          }
+        },
+        {
+          "date": 1630972800,
+          "reserve0": "106347229.152706",
+          "reserve1": "30995.067657810008331939",
+          "token0": {
+            "name": "USD//C"
+          },
+          "token1": {
+            "name": "Wrapped Ether"
+          }
+        },
+        {
+          "date": 1631059200,
+          "reserve0": "107382874.579305",
+          "reserve1": "30748.425263926041084879",
+          "token0": {
+            "name": "USD//C"
+          },
+          "token1": {
+            "name": "Wrapped Ether"
+          }
+        },
+        {
+          "date": 1631145600,
+          "reserve0": "105011388.186454",
+          "reserve1": "30649.658456927098873188",
+          "token0": {
+            "name": "USD//C"
+          },
+          "token1": {
+            "name": "Wrapped Ether"
+          }
+        },
+        {
+          "date": 1631232000,
+          "reserve0": "101630233.987062",
+          "reserve1": "31662.042005935507122057",
+          "token0": {
+            "name": "USD//C"
+          },
+          "token1": {
+            "name": "Wrapped Ether"
+          }
+        },
+        {
+          "date": 1631318400,
+          "reserve0": "102362941.219885",
+          "reserve1": "31415.104574876583822827",
+          "token0": {
+            "name": "USD//C"
+          },
+          "token1": {
+            "name": "Wrapped Ether"
+          }
+        },
+        {
+          "date": 1631404800,
+          "reserve0": "104738871.339512",
+          "reserve1": "30728.328789523139503675",
+          "token0": {
+            "name": "USD//C"
+          },
+          "token1": {
+            "name": "Wrapped Ether"
+          }
+        },
+        {
+          "date": 1631491200,
+          "reserve0": "102950131.351962",
+          "reserve1": "31296.480626289934659126",
+          "token0": {
+            "name": "USD//C"
+          },
+          "token1": {
+            "name": "Wrapped Ether"
+          }
+        },
+        {
+          "date": 1631577600,
+          "reserve0": "105012420.248728",
+          "reserve1": "30634.337160570614344526",
+          "token0": {
+            "name": "USD//C"
+          },
+          "token1": {
+            "name": "Wrapped Ether"
+          }
+        },
+        {
+          "date": 1631664000,
+          "reserve0": "107689205.524342",
+          "reserve1": "29893.686251202039838832",
+          "token0": {
+            "name": "USD//C"
+          },
+          "token1": {
+            "name": "Wrapped Ether"
+          }
+        },
+        {
+          "date": 1631750400,
+          "reserve0": "107142888.979721",
+          "reserve1": "30024.689550244855743831",
+          "token0": {
+            "name": "USD//C"
+          },
+          "token1": {
+            "name": "Wrapped Ether"
+          }
+        },
+        {
+          "date": 1631836800,
+          "reserve0": "104704536.884001",
+          "reserve1": "30817.753349054829453336",
+          "token0": {
+            "name": "USD//C"
+          },
+          "token1": {
+            "name": "Wrapped Ether"
+          }
+        },
+        {
+          "date": 1631923200,
+          "reserve0": "105247591.01418",
+          "reserve1": "30688.848529321075050084",
+          "token0": {
+            "name": "USD//C"
+          },
+          "token1": {
+            "name": "Wrapped Ether"
+          }
+        },
+        {
+          "date": 1632009600,
+          "reserve0": "103414739.288775",
+          "reserve1": "31183.985081709986657846",
+          "token0": {
+            "name": "USD//C"
+          },
+          "token1": {
+            "name": "Wrapped Ether"
+          }
+        },
+        {
+          "date": 1632096000,
+          "reserve0": "97904015.476728",
+          "reserve1": "33020.655427541374479437",
+          "token0": {
+            "name": "USD//C"
+          },
+          "token1": {
+            "name": "Wrapped Ether"
+          }
+        },
+        {
+          "date": 1632182400,
+          "reserve0": "94501930.06658",
+          "reserve1": "34271.637353195570786132",
+          "token0": {
+            "name": "USD//C"
+          },
+          "token1": {
+            "name": "Wrapped Ether"
+          }
+        },
+        {
+          "date": 1632268800,
+          "reserve0": "99642716.757792",
+          "reserve1": "32477.727974492813855239",
+          "token0": {
+            "name": "USD//C"
+          },
+          "token1": {
+            "name": "Wrapped Ether"
+          }
+        },
+        {
+          "date": 1632355200,
+          "reserve0": "100226112.558916",
+          "reserve1": "31850.100266079385881687",
+          "token0": {
+            "name": "USD//C"
+          },
+          "token1": {
+            "name": "Wrapped Ether"
+          }
+        },
+        {
+          "date": 1632441600,
+          "reserve0": "98315258.408812",
+          "reserve1": "33634.618398403165418316",
+          "token0": {
+            "name": "USD//C"
+          },
+          "token1": {
+            "name": "Wrapped Ether"
+          }
+        },
+        {
+          "date": 1632528000,
+          "reserve0": "98297783.00026",
+          "reserve1": "33602.194623870331246527",
+          "token0": {
+            "name": "USD//C"
+          },
+          "token1": {
+            "name": "Wrapped Ether"
+          }
+        },
+        {
+          "date": 1632614400,
+          "reserve0": "100538238.332384",
+          "reserve1": "32885.476255252647431604",
+          "token0": {
+            "name": "USD//C"
+          },
+          "token1": {
+            "name": "Wrapped Ether"
+          }
+        },
+        {
+          "date": 1632700800,
+          "reserve0": "98440037.060979",
+          "reserve1": "33524.236400130190642172",
+          "token0": {
+            "name": "USD//C"
+          },
+          "token1": {
+            "name": "Wrapped Ether"
+          }
+        },
+        {
+          "date": 1632787200,
+          "reserve0": "96188404.965617",
+          "reserve1": "34357.046602348276813907",
+          "token0": {
+            "name": "USD//C"
+          },
+          "token1": {
+            "name": "Wrapped Ether"
+          }
+        },
+        {
+          "date": 1632873600,
+          "reserve0": "96995463.490295",
+          "reserve1": "34098.501279882545553719",
+          "token0": {
+            "name": "USD//C"
+          },
+          "token1": {
+            "name": "Wrapped Ether"
+          }
+        },
+        {
+          "date": 1632960000,
+          "reserve0": "101422671.899235",
+          "reserve1": "33834.623744173263060048",
+          "token0": {
+            "name": "USD//C"
+          },
+          "token1": {
+            "name": "Wrapped Ether"
+          }
+        },
+        {
+          "date": 1633046400,
+          "reserve0": "106494225.14221",
+          "reserve1": "32226.756716593565894677",
+          "token0": {
+            "name": "USD//C"
+          },
+          "token1": {
+            "name": "Wrapped Ether"
+          }
+        },
+        {
+          "date": 1633132800,
+          "reserve0": "107945192.430884",
+          "reserve1": "31840.495117907879363987",
+          "token0": {
+            "name": "USD//C"
+          },
+          "token1": {
+            "name": "Wrapped Ether"
+          }
+        },
+        {
+          "date": 1633219200,
+          "reserve0": "108229155.680738",
+          "reserve1": "31701.955917018841599073",
+          "token0": {
+            "name": "USD//C"
+          },
+          "token1": {
+            "name": "Wrapped Ether"
+          }
+        },
+        {
+          "date": 1633305600,
+          "reserve0": "107967059.032593",
+          "reserve1": "31816.650510625756987522",
+          "token0": {
+            "name": "USD//C"
+          },
+          "token1": {
+            "name": "Wrapped Ether"
+          }
+        },
+        {
+          "date": 1633392000,
+          "reserve0": "110135069.67108",
+          "reserve1": "31267.063764141624704685",
+          "token0": {
+            "name": "USD//C"
+          },
+          "token1": {
+            "name": "Wrapped Ether"
+          }
+        },
+        {
+          "date": 1633478400,
+          "reserve0": "110981730.705086",
+          "reserve1": "30944.948205717446362385",
+          "token0": {
+            "name": "USD//C"
+          },
+          "token1": {
+            "name": "Wrapped Ether"
+          }
+        },
+        {
+          "date": 1633564800,
+          "reserve0": "111043877.095275",
+          "reserve1": "30963.551864712308476933",
+          "token0": {
+            "name": "USD//C"
+          },
+          "token1": {
+            "name": "Wrapped Ether"
+          }
+        },
+        {
+          "date": 1633651200,
+          "reserve0": "110461652.045743",
+          "reserve1": "31070.817855200857602528",
+          "token0": {
+            "name": "USD//C"
+          },
+          "token1": {
+            "name": "Wrapped Ether"
+          }
+        },
+        {
+          "date": 1633737600,
+          "reserve0": "110803488.913641",
+          "reserve1": "30951.227611550054580736",
+          "token0": {
+            "name": "USD//C"
+          },
+          "token1": {
+            "name": "Wrapped Ether"
+          }
+        },
+        {
+          "date": 1633824000,
+          "reserve0": "108380091.598896",
+          "reserve1": "31695.42572760257782487",
+          "token0": {
+            "name": "USD//C"
+          },
+          "token1": {
+            "name": "Wrapped Ether"
+          }
+        },
+        {
+          "date": 1633910400,
+          "reserve0": "110140365.399366",
+          "reserve1": "31202.847312198718331318",
+          "token0": {
+            "name": "USD//C"
+          },
+          "token1": {
+            "name": "Wrapped Ether"
+          }
+        },
+        {
+          "date": 1633996800,
+          "reserve0": "109612994.141035",
+          "reserve1": "31356.179512007456128031",
+          "token0": {
+            "name": "USD//C"
+          },
+          "token1": {
+            "name": "Wrapped Ether"
+          }
+        },
+        {
+          "date": 1634083200,
+          "reserve0": "110840015.053475",
+          "reserve1": "30837.756373070650816548",
+          "token0": {
+            "name": "USD//C"
+          },
+          "token1": {
+            "name": "Wrapped Ether"
+          }
+        },
+        {
+          "date": 1634169600,
+          "reserve0": "113764620.681984",
+          "reserve1": "30063.837144547784941243",
+          "token0": {
+            "name": "USD//C"
+          },
+          "token1": {
+            "name": "Wrapped Ether"
+          }
+        },
+        {
+          "date": 1634256000,
+          "reserve0": "114909131.179681",
+          "reserve1": "29783.426220268808327751",
+          "token0": {
+            "name": "USD//C"
+          },
+          "token1": {
+            "name": "Wrapped Ether"
+          }
+        },
+        {
+          "date": 1634342400,
+          "reserve0": "114797099.501301",
+          "reserve1": "29901.849605054637347922",
+          "token0": {
+            "name": "USD//C"
+          },
+          "token1": {
+            "name": "Wrapped Ether"
+          }
+        },
+        {
+          "date": 1634428800,
+          "reserve0": "114972914.782787",
+          "reserve1": "29853.730205659982656122",
+          "token0": {
+            "name": "USD//C"
+          },
+          "token1": {
+            "name": "Wrapped Ether"
+          }
+        },
+        {
+          "date": 1634515200,
+          "reserve0": "113372195.830366",
+          "reserve1": "30312.508587545046071913",
+          "token0": {
+            "name": "USD//C"
+          },
+          "token1": {
+            "name": "Wrapped Ether"
+          }
+        },
+        {
+          "date": 1634601600,
+          "reserve0": "115387922.748194",
+          "reserve1": "29788.908754880382997077",
+          "token0": {
+            "name": "USD//C"
+          },
+          "token1": {
+            "name": "Wrapped Ether"
+          }
+        },
+        {
+          "date": 1634688000,
+          "reserve0": "117828531.433759",
+          "reserve1": "28346.821554130771149527",
+          "token0": {
+            "name": "USD//C"
+          },
+          "token1": {
+            "name": "Wrapped Ether"
+          }
+        },
+        {
+          "date": 1634774400,
+          "reserve0": "108732196.017184",
+          "reserve1": "26769.819552659070339727",
+          "token0": {
+            "name": "USD//C"
+          },
+          "token1": {
+            "name": "Wrapped Ether"
+          }
+        },
+        {
+          "date": 1634860800,
+          "reserve0": "107662005.351392",
+          "reserve1": "27110.806308317556707194",
+          "token0": {
+            "name": "USD//C"
+          },
+          "token1": {
+            "name": "Wrapped Ether"
+          }
+        },
+        {
+          "date": 1634947200,
+          "reserve0": "99863028.239985",
+          "reserve1": "24031.237373281599259563",
+          "token0": {
+            "name": "USD//C"
+          },
+          "token1": {
+            "name": "Wrapped Ether"
+          }
+        },
+        {
+          "date": 1635033600,
+          "reserve0": "99087316.918355",
+          "reserve1": "24275.025289863076661624",
+          "token0": {
+            "name": "USD//C"
+          },
+          "token1": {
+            "name": "Wrapped Ether"
+          }
+        },
+        {
+          "date": 1635120000,
+          "reserve0": "105725959.400728",
+          "reserve1": "25120.803005625839636343",
+          "token0": {
+            "name": "USD//C"
+          },
+          "token1": {
+            "name": "Wrapped Ether"
+          }
+        },
+        {
+          "date": 1635206400,
+          "reserve0": "104603093.239367",
+          "reserve1": "25268.269166263290673111",
+          "token0": {
+            "name": "USD//C"
+          },
+          "token1": {
+            "name": "Wrapped Ether"
+          }
+        },
+        {
+          "date": 1635292800,
+          "reserve0": "101938521.765503",
+          "reserve1": "25856.216742948486181295",
+          "token0": {
+            "name": "USD//C"
+          },
+          "token1": {
+            "name": "Wrapped Ether"
+          }
+        },
+        {
+          "date": 1635379200,
+          "reserve0": "105423641.315249",
+          "reserve1": "24744.600959766967968067",
+          "token0": {
+            "name": "USD//C"
+          },
+          "token1": {
+            "name": "Wrapped Ether"
+          }
+        }
+      ]

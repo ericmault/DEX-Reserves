@@ -8,19 +8,13 @@
   
 token0{
   name
-  totalLiquidity
 }
   token1{
     name
-    totalLiquidity
   }
      date
-  totalSupply
-  reserveUSD
-     dailyVolumeToken0
-     dailyVolumeToken1
-     dailyVolumeUSD
-     reserveUSD
+  reserve0
+  reserve1
  }
 
 }

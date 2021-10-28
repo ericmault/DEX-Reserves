@@ -13,21 +13,21 @@ print(datetime.utcfromtimestamp(ts).strftime('%Y-%m-%d %H:%M:%S'))
 
 print("dt_object =", dt_object)
 
-with open('./uniV2DataV2.json', 'r') as f:
+with open('./temp.json', 'r') as f:
     data = json.loads(f.read())
     
-# df = pd.DataFrame(data)
 
-# df = pd.read_json("./uniV2Data")
 df = pd.json_normalize(data)
 
 def returnDateTime(x):
     return(datetime.utcfromtimestamp(x).strftime('%Y-%m-%d %H:%M:%S'))
+  
+# df['timestamp'] = df['timestamp'].apply(returnDateTime)
     
 df['date'] = df['date'].apply(returnDateTime)
 
 
-with open('./uniV2ETHPriceData.json', 'r') as g:
+with open('./temp2.json', 'r') as g:
     data2 = json.loads(g.read())
     
 df2 = pd.json_normalize(data2)
@@ -41,8 +41,8 @@ print(df2)
 
 df = df.merge(df2,how='left',on='date')
 
-# print(df)
-# print(df2)
+print(df)
+print(df2)
 
 #uncomment here
 df.to_csv('out.csv',index=False)
